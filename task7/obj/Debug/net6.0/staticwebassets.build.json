@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iayDfIzfGlT1bQ1TEe9y4oHXFmoArRep7ONzuWUW4pY=",
+  "Hash": "njiujVp3FUjiERdwQqwq8+h3yn4oaO/SDaKlYcz9VM0=",
   "Source": "task7",
   "BasePath": "_content/task7",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\tayya\\Desktop\\task7\\task7\\wwwroot\\Instructor.xml",
+      "SourceId": "task7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tayya\\Desktop\\task7\\task7\\wwwroot\\",
+      "BasePath": "_content/task7",
+      "RelativePath": "Instructor.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Instructor.xml"
     },
     {
       "Identity": "C:\\Users\\tayya\\Desktop\\task7\\task7\\wwwroot\\js\\site.js",

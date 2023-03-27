@@ -7,6 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\Courses.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Courses.xml" />
+    <None Include="wwwroot\Instructor.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="CsvHelper" Version="30.0.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
   </ItemGroup>

@@ -10,27 +10,32 @@ namespace task7.Controllers
 {
     public class XMLClassController : Controller
     {
+        private readonly IWebHostEnvironment _environment;
+
+        public XMLClassController(IWebHostEnvironment environment)
+        {
+            _environment = environment;
+        }
 
         public IActionResult Index()
         {
+            // Course-XML file Path
+            string filePath = _environment.WebRootPath + "/Courses.xml";
             //Read the COurse XMl Noe..
             // Load the XML file into an XmlDocument object
             XmlDocument xmlDoc = new XmlDocument();
-            xmlDoc.Load("Courses.xml");
+            xmlDoc.Load(filePath);
 
             // Extract the student data using XPath expressions
             XmlNodeList studentNodes = xmlDoc.SelectNodes("//Course");
             List<Course> Courses = new List<Course>();
 
+            // Extracting the XML data and bind with Course Class
             foreach (XmlNode studentNode in studentNodes)
             {
-
                 string SubjectAndCode = studentNode.SelectSingleNode("SubjectAndCode").InnerText;
                 string Title = studentNode.SelectSingleNode("Title").InnerText;
-
-
                 string CourseId = studentNode.SelectSingleNode("CourseId").InnerText;
-
                 string Instructor = studentNode.SelectSingleNode("Instructor").InnerText;
                 string Days = studentNode.SelectSingleNode("Days").InnerText;
                 string Start = studentNode.SelectSingleNode("Start").InnerText;
@@ -46,8 +51,7 @@ namespace task7.Controllers
                     CourseId = CourseId,
                     Dates = Dates,
                     Days = Days,
-                    End = End
-                                    ,
+                    End = End,
                     Enrollment = Enrollment,
                     Instructor = Instructor,
                     Location = Location,
@@ -58,6 +62,7 @@ namespace task7.Controllers
                 Courses.Add(item);
             }
 
+            // Applying the query here
             IEnumerable<task7.Models.ViewModels.XElement> data = Courses.Where(s => Convert.ToInt32(s.SubjectAndCode.ToString().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ElementAt(1)) >200
                                && s.SubjectAndCode.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ElementAt(0) == "CPI").Select(s => new task7.Models.ViewModels.XElement()
                                {
@@ -73,10 +78,11 @@ namespace task7.Controllers
 
         public IActionResult TwoPoint2()
         {
+            string filePath = _environment.WebRootPath + "/Courses.xml";
             //Read the COurse XMl Noe..
             // Load the XML file into an XmlDocument object
             XmlDocument xmlDoc = new XmlDocument();
-            xmlDoc.Load("Courses.xml");
+            xmlDoc.Load(filePath);
 
             // Extract the student data using XPath expressions
             XmlNodeList studentNodes = xmlDoc.SelectNodes("//Course");
@@ -112,7 +118,6 @@ namespace task7.Controllers
             }
 
             var courseGroups = CoursesList.GroupBy(c => new { c.Subject });
-
             // Filter the groups with at least two courses
             var filteredGroups = courseGroups.Where(g => g.Count() >= 2).ToList();
             ViewBag.GrupBy = filteredGroups;
@@ -120,25 +125,19 @@ namespace task7.Controllers
         }
 
 
-
-
         public IActionResult GetAllInstructors(string instructorName)
         {
             XmlDocument xmlDoc = new XmlDocument();
-            xmlDoc.Load("Instructor.xml");
+            xmlDoc.Load(_environment.WebRootPath + "/Instructor.xml");
             // Extract the student data using XPath expressions
             XmlNodeList studentNodes = xmlDoc.SelectNodes("//Instructor");
             List<Instructor> InstructorsList = new List<Instructor>();
 
             foreach (XmlNode studentNode in studentNodes)
             {
-
                 string Name = studentNode.SelectSingleNode("Name").InnerText;
                 string OfficeNumber = studentNode.SelectSingleNode("OfficeNumber").InnerText;
-
-
                 string Email = studentNode.SelectSingleNode("Email").InnerText;
-
 
                 var item = new Instructor
                 {
@@ -148,9 +147,6 @@ namespace task7.Controllers
                 };
                 InstructorsList.Add(item);
             }
-
-
-
             return View(InstructorsList);
         }
 
@@ -158,20 +154,16 @@ namespace task7.Controllers
         public IActionResult TaskTwoPoint2(string instructorName)
         {
             XmlDocument xmlDoc = new XmlDocument();
-            xmlDoc.Load("Instructor.xml");
+            xmlDoc.Load(_environment.WebRootPath + "/Instructor.xml");
             // Extract the student data using XPath expressions
             XmlNodeList studentNodes = xmlDoc.SelectNodes("//Instructor");
             List<Instructor> InstructorsList = new List<Instructor>();
 
             foreach (XmlNode studentNode in studentNodes)
             {
-
                 string Name = studentNode.SelectSingleNode("Name").InnerText;
                 string OfficeNumber = studentNode.SelectSingleNode("OfficeNumber").InnerText;
-
-
                 string Email = studentNode.SelectSingleNode("Email").InnerText;
-
 
                 var item = new Instructor
                 {
@@ -181,8 +173,6 @@ namespace task7.Controllers
                 };
                 InstructorsList.Add(item);
             }
-
-
 
 
             //Read the COurse XMl Noe..
@@ -227,7 +217,6 @@ namespace task7.Controllers
                         join instructor in InstructorsList
                         on course.Instructor equals instructor.Name
                         where (int.TryParse(course.Code, out int code) && code >= 200 && code <= 299 && instructor.Name== instructorName)
-
                         orderby course.Code ascending
                         select new CoursesWithTeachersViewModel
                         {
@@ -237,7 +226,7 @@ namespace task7.Controllers
 
             var result = query.ToList();
 
-            return View();
+            return View(result);
         }
     }
 }
