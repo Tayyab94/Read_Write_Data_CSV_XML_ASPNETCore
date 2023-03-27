@@ -1,0 +1,30 @@
+﻿@model IEnumerable<task7.Models.Instructor>
+@{
+    ViewData["Title"] = "GetAllTeachers";
+}
+
+<div class="container">
+    <div class="row">
+        <table class="table table-responsive">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Office Number</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <a href="@Url.Action("TaskTwoPoint2","XmlClass",new {instructorName= item.Name})"> @item.Name</a>
+
+                        <td>@item.OfficeNumber</td>
+                        <td>@item.Email</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

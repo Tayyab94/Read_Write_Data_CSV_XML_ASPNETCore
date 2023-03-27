@@ -1,0 +1,203 @@
+SubjectAndCode,Title,CourseId,Instructor,Days,Start,End,Location,Dates,Units,Enrollment
+CPI 200,Math Foundation of Informatics,15814  ,Hansford,T Th ,12:00 PM ,1:15 PM ,Tempe - BYENG209,01/11 - 04/23(C) ,3,25 of 60 
+CPI 321,Fundamentals of Game Art (LEL),12499  ,Kobayashi,Th ,4:50 PM ,7:35 PM ,Tempe - BYENGM1-11,01/11 - 04/23(C) ,3,2 of 46 
+CPI 350,Eval of Informatics Systems,13767  ,Atkinson,T Th ,1:30 PM ,2:45 PM ,Tempe - BYENG209,01/11 - 04/23(C) ,3,3 of 69 
+CPI 394,Topic: Game Design Fundamentals,32666  ,Selgrad,T Th ,1:30 PM ,2:45 PM ,Tempe - BYAC110,01/11 - 04/23(C) ,3,16 of 75 
+CPI 411,Graphics for Games,16884  ,Kobayashi,T Th ,10:30 AM ,11:45 AM ,Tempe - BYENGM1-11,01/11 - 04/23(C) ,3,11 of 50 
+CPI 441,Gaming Capstone (LEL),12440  ,Kobayashi,T ,4:50 PM ,7:35 PM ,Tempe - BYENGM1-11,01/11 - 04/23(C) ,3,14 of 45 
+CSE 100,Prin of Programming with C++,13552  ,Burger,T Th ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,7 of 175 
+CSE 100,Laboratory,15172  ,Burger,Th ,9:00 AM ,9:50 AM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,1 of 35 
+CSE 100,Laboratory,20790  ,Burger,T ,9:00 AM ,9:50 AM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,3 of 35 
+CSE 100,Laboratory,20791  ,Burger,W ,11:15 AM ,12:05 PM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,1 of 35 
+CSE 100,Laboratory,20792  ,Burger,F ,11:15 AM ,12:05 PM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,2 of 35 
+CSE 110,Laboratory,20771  ,"Das, Suthar",T ,3:00 PM ,4:15 PM ,Poly - PRLTA202,01/11 - 04/23(C) ,0,4 of 21 
+CSE 110,Laboratory,20772  ,"Das, Suthar",Th ,3:00 PM ,4:15 PM ,Poly - PRLTA202,01/11 - 04/23(C) ,0,6 of 18 
+CSE 110,Principles of Programming,11178  ,Miller,,,,Internet - Hybrid,01/11 - 04/23(C) ,3,4 of 275 
+CSE 110,Principles of Programming,15817  ,Miller,,,,Internet - Hybrid,01/11 - 04/23(C) ,3,3 of 252 
+CSE 110,Principles of Programming,29948  ,Miller,,,,Internet - Hybrid,01/11 - 04/23(C) ,3,55 of 250 
+CSE 110,Laboratory,11196  ,Miller,M ,2:30 PM ,3:20 PM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,2 of 35 
+CSE 110,Laboratory,15186  ,Miller,Th ,3:00 PM ,3:50 PM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,4 of 35 
+CSE 110,Laboratory,16886  ,Miller,Th ,10:30 AM ,11:20 AM ,Tempe - ECGG324,01/11 - 04/23(C) ,0,1 of 35 
+CSE 110,Laboratory,18590  ,Miller,T ,3:00 PM ,3:50 PM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,2 of 35 
+CSE 110,Laboratory,20793  ,Miller,T ,10:30 AM ,11:20 AM ,Tempe - ECGG324,01/11 - 04/23(C) ,0,1 of 35 
+CSE 110,Laboratory,25281  ,Miller,W ,9:05 AM ,9:55 AM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,1 of 36 
+CSE 110,Laboratory,25284  ,Miller,Th ,1:30 PM ,2:20 PM ,Tempe - COORL1-50,01/11 - 04/23(C) ,0,1 of 36 
+CSE 110,Laboratory,25286  ,Miller,Th ,4:30 PM ,5:20 PM ,Tempe - COORL1-38,01/11 - 04/23(C) ,0,1 of 36 
+CSE 110,Laboratory,29949  ,Miller,T ,10:30 AM ,11:20 AM ,Tempe - LIBL60,01/11 - 04/23(C) ,0,24 of 75 
+CSE 110,Laboratory,29950  ,Miller,Th ,10:30 AM ,11:20 AM ,Tempe - LIBL60,01/11 - 04/23(C) ,0,17 of 75 
+CSE 110,Laboratory,29951  ,Miller,T ,3:00 PM ,3:50 PM ,Tempe - LIBL60,01/11 - 04/23(C) ,0,1 of 50 
+CSE 110,Laboratory,29952  ,Miller,Th ,3:00 PM ,3:50 PM ,Tempe - LIBL60,01/11 - 04/23(C) ,0,13 of 50 
+CSE 110,Principles of Programming,20770  ,Suthar,M W ,3:00 PM ,4:15 PM ,Poly - PRLTA202,01/11 - 04/23(C) ,3,10 of 39 
+CSE 120,Digital Design Fundamentals,28566  ,Millman,T Th ,1:30 PM ,2:45 PM ,Tempe - SCOB210,01/11 - 04/23(C) ,3,1 of 58 
+CSE 120,Laboratory,28567  ,Millman,,,,Tempe - TBA,01/11 - 04/23(C) ,0,1 of 58 
+CSE 205,Object-Oriented Program & Data,12605  ,Feng,M W F ,8:00 AM ,8:50 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,94 of 166 
+CSE 205,Object-Oriented Program & Data,15818  ,Feng,M W F ,12:20 PM ,1:10 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,78 of 166 
+CSE 205,Object-Oriented Program & Data,11206  ,Hsiao,M W F ,11:15 AM ,12:05 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,70 of 166 
+CSE 205,Object-Oriented Program & Data,33115  ,Hsiao,M W F ,11:15 AM ,12:05 PM ,Tempe - SHESC340,01/11 - 04/23(C) ,3,46 of 50 
+CSE 205,Object-Oriented Program & Data,15466  ,Osburn,M W ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,8 of 166 
+CSE 205,Object-Oriented Program & Data,20773  ,Osburn,T Th ,10:30 AM ,11:45 AM ,Poly - AGBC154,01/11 - 04/23(C) ,3,13 of 80 
+CSE 205,Object-Oriented Program & Data,11272  ,Tadayon-Navabi,T Th ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,41 of 166 
+CSE 205,Object-Oriented Program & Data,11282  ,Tadayon-Navabi,T Th ,9:00 AM ,10:15 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,11 of 166 
+CSE 205,Object-Oriented Program & Data,19341  ,Tadayon-Navabi,T Th ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,4 of 166 
+CSE 205,Object-Oriented Program & Data,33116  ,Tadayon-Navabi,T Th ,4:30 PM ,5:45 PM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,4 of 50 
+CSE 205,Object-Oriented Program & Data,33117  ,Tadayon-Navabi,T Th ,9:00 AM ,10:15 AM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,8 of 50 
+CSE 220,Programming for Computer Engr,11243  ,"Farazi, Wang",T Th ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,110 of 175 
+CSE 230,Computer Org/Assemb Lang Prog,20774  ,Burger,T Th ,12:00 PM ,1:15 PM ,Poly - AGBC115,01/11 - 04/23(C) ,3,24 of 72 
+CSE 230,Computer Org/Assemb Lang Prog,33122  ,Nakamura,M W ,10:30 AM ,11:45 AM ,Tempe - DISCVRY350,01/11 - 04/23(C) ,3,1 of 35 
+CSE 230,Computer Org/Assemb Lang Prog,29751  ,Vrudhula,T Th ,9:00 AM ,10:15 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,16 of 169 
+CSE 240,Intro to Programming Languages,13536  ,Chen,T Th ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,120 of 200 
+CSE 240,Intro to Programming Languages,26611  ,Chen,T Th ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,65 of 200 
+CSE 240,Intro to Programming Languages,33391  ,Chen,T Th ,4:30 PM ,5:45 PM ,Tempe - COOR120,01/11 - 04/23(C) ,3,25 of 50 
+CSE 240,Intro to Programming Languages,33392  ,Chen,T Th ,1:30 PM ,2:45 PM ,Tempe - BYAC270,01/11 - 04/23(C) ,3,2 of 50 
+CSE 259,Logic in Computer Science,19998  ,Osburn,M W ,12:00 PM ,1:15 PM ,Tempe - COOR199,01/11 - 04/23(C) ,3,14 of 86 
+CSE 259,Recitation,20019  ,Osburn,M ,10:10 AM ,11:00 AM ,Tempe - BYAC240,01/11 - 04/23(C) ,0,13 of 43 
+CSE 259,Recitation,20020  ,Osburn,W ,10:10 AM ,11:00 AM ,Tempe - BYAC240,01/11 - 04/23(C) ,0,1 of 43 
+CSE 301,Computing Ethics,11189  ,Hansford,,,,iCourse,01/11 - 04/23(C) ,1,1 of 330 
+CSE 310,Data Structures and Algorithms,21622  ,Syrotiuk,M W ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,9 of 155 
+CSE 310,Recitation,21623  ,Syrotiuk,T ,1:30 PM ,2:20 PM ,Tempe - BYAC260,01/11 - 04/23(C) ,0,2 of 35 
+CSE 310,Recitation,21624  ,Syrotiuk,F ,4:40 PM ,5:30 PM ,Tempe - BYAC260,01/11 - 04/23(C) ,0,5 of 30 
+CSE 310,Recitation,21625  ,Syrotiuk,M ,4:40 PM ,5:30 PM ,Tempe - BYAC260,01/11 - 04/23(C) ,0,1 of 30 
+CSE 310,Recitation,29763  ,Syrotiuk,Th ,1:30 PM ,2:20 PM ,Tempe - BYAC260,01/11 - 04/23(C) ,0,1 of 30 
+CSE 310,Data Structures and Algorithms,11638  ,Xue,T Th ,6:00 PM ,7:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,2 of 155 
+CSE 310,Recitation,18669  ,Xue,Th ,9:00 AM ,9:50 AM ,Tempe - BYAC260,01/11 - 04/23(C) ,0,2 of 26 
+CSE 310,Recitation,18674  ,Xue,W ,9:05 AM ,9:55 AM ,Tempe - BYAC260,01/11 - 04/23(C) ,0,1 of 35 
+CSE 320,Design/Syn Digital Hardware,11219  ,Ren,T Th ,3:00 PM ,4:15 PM ,Tempe - CAVC359,01/11 - 04/23(C) ,3,36 of 80 
+CSE 320,Recitation,20109  ,Ren,M ,5:45 PM ,6:35 PM ,Tempe - BYENG210,01/11 - 04/23(C) ,0,9 of 40 
+CSE 320,Recitation,20110  ,Ren,W ,5:45 PM ,6:35 PM ,Tempe - BYENG210,01/11 - 04/23(C) ,0,27 of 40 
+CSE 325,Embedded Microprocessor System,17929  ,Meuth,M W ,10:30 AM ,11:45 AM ,Tempe - CAVC359,01/11 - 04/23(C) ,3,6 of 80 
+CSE 325,Recitation,18676  ,Meuth,F ,11:15 AM ,12:05 PM ,Tempe - BYENG210,01/11 - 04/23(C) ,0,6 of 40 
+CSE 330,Operating Systems,18480  ,Zhao,M W ,12:00 PM ,1:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 265 
+CSE 330,Recitation,19940  ,Zhao,F ,9:00 AM ,9:50 AM ,Tempe - BYAC270,01/11 - 04/23(C) ,0,1 of 45 
+CSE 335,Princ of Mobile App Dev (LEL),29789  ,Chakati,W ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,86 of 150 
+CSE 340,Principles of Programming Lang,29768  ,Banerjee,T Th ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 152 
+CSE 340,Recitation,29771  ,Banerjee,W ,11:15 AM ,12:05 PM ,Tempe - COOR186,01/11 - 04/23(C) ,0,1 of 36 
+CSE 340,Principles of Programming Lang,13883  ,Fainekos,T Th ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,3 of 150 
+CSE 340,Recitation,18681  ,Fainekos,W ,10:10 AM ,11:00 AM ,Tempe - BYAC150,01/11 - 04/23(C) ,0,1 of 38 
+CSE 340,Recitation,18682  ,Fainekos,F ,10:10 AM ,11:00 AM ,Tempe - BYAC150,01/11 - 04/23(C) ,0,1 of 37 
+CSE 340,Recitation,18683  ,Fainekos,F ,11:15 AM ,12:05 PM ,Tempe - COOR186,01/11 - 04/23(C) ,0,1 of 38 
+CSE 355,Intro Theoretical Computer Sci,14169  ,Colbourn,T Th ,9:00 AM ,10:15 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,13 of 145 
+CSE 355,Recitation,18684  ,Colbourn,M ,9:05 AM ,9:55 AM ,Tempe - BYAC190,01/11 - 04/23(C) ,0,2 of 42 
+CSE 355,Recitation,18685  ,Colbourn,W ,9:05 AM ,9:55 AM ,Tempe - BYAC190,01/11 - 04/23(C) ,0,1 of 42 
+CSE 355,Recitation,18686  ,Colbourn,F ,9:05 AM ,9:55 AM ,Tempe - BYAC190,01/11 - 04/23(C) ,0,9 of 42 
+CSE 355,Recitation,18690  ,Colbourn,T ,1:30 PM ,2:20 PM ,Tempe - BYAC240,01/11 - 04/23(C) ,0,1 of 19 
+CSE 365,Information Assurance,19897  ,Bao,T Th ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,26 of 300 
+CSE 365,Information Assurance,30175  ,Doupe,M W ,6:00 PM ,7:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,2 of 300 
+CSE 408,Multimedia Information Systems,35239  ,Caviedes,T Th ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 150 
+CSE 420,Computer Architecture I,11213  ,Shrivastava,M W ,12:00 PM ,1:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,58 of 132 
+CSE 423,Systems Capstone Project I,12844  ,Meuth,Th,9:00 AM,10:15 AM,Tempe - BYAC110,01/11 - 04/23,3,39 of 60 
+CSE 424,Systems Capstone Project II,11158  ,Meuth,T,9:00 AM,10:15 AM,Tempe - BYAC110,01/11 - 04/23,3,5 of 60 
+CSE 434,Computer Networks,11169  ,Syrotiuk,T Th ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,11 of 149 
+CSE 438,Embedded Systems Programming,32920  ,Lee,T Th ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,93 of 125 
+CSE 445,Distributed Software Developmt,11266  ,Balasooriya,M W ,12:00 PM ,1:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,199 of 199 
+CSE 446,Software Integration and Engr,13841,Chen,T Th ,12:00 PM ,1:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,159of 200
+CSE 450,Design&Analysis of Algorithms,19898  ,"Basu, Sen",T Th ,9:00 AM ,10:15 AM ,Tempe - CAVC359,01/11 - 04/23(C) ,3,31 of 80 
+CSE 460,Software Analysis and Design,11639  ,Gonzalez Sanchez,M W ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,27 of 132 
+CSE 463,Intro Human Computer Interactn,13874  ,"Atkinson, Xu",M W ,6:00 PM ,7:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,45 of 330 
+CSE 464,Software QA and Testing,20414  ,Balasooriya,M W ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 199 
+CSE 469,Computer and Network Forensics,14181  ,BAEK,T Th ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,40 of 142 
+CSE 470,Computer Graphics,19306  ,Hansford,T Th ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,21 of 149 
+CSE 471,Intro Artificial Intelligence,12881  ,"Hanni, Zhang",M W ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,69 of 190 
+CSE 475,Found of Machine Learning,34714  ,"Wang, Yang",T Th ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,38 of 149 
+CSE 484,Topic: Department (PRA),12884  ,Select instructor during enrollment,,,,Tempe - TBA,01/11 - 04/23(C) ,3,22 of 30 
+CSE 484,Topic: Department (PRA),15729  ,Select instructor during enrollment,,,,Tempe - TBA,03/08 - 04/23(B) ,3,26 of 30 
+CSE 485,Computer Sci Capstone Proj I,19043  ,"Amperayani, Chavez-Echeagaray",M ,2:30 PM ,3:20 PM ,Internet - Hybrid,01/11 - 04/23,3,26 of 50 
+CSE 485,Computer Sci Capstone Proj I,19044  ,"Amperayani, Chavez-Echeagaray",W,2:30 PM,3:20 PM,Tempe - BYAC270,01/11 - 04/23,3,27 of 50 
+CSE 485,Computer Sci Capstone Proj I,19045  ,"Chavez-Echeagaray, Hossain",F,2:30 PM,3:20 PM,Tempe - BYAC270,01/11 - 04/23,3,37 of 50 
+CSE 485,Computer Sci Capstone Proj I,12891  ,"Chavez-Echeagaray, Jha",T,9:00 AM,9:50 AM,Tempe - BYAC270,01/11 - 04/23,3,14 of 50 
+CSE 485,Computer Sci Capstone Proj I,21405  ,"Chavez-Echeagaray, Jha",Th,9:00 AM,9:50 AM,Tempe - BYAC270,01/11 - 04/23,3,41 of 55 
+CSE 509,Digital Video Processing,35240  ,"Caviedes, Jiang",T Th ,1:30 PM ,2:45 PM ,Tempe - BYENG210,01/11 - 04/23(C) ,3,24 of 50 
+CSE 510,Database Mgmt Sys Implementn,12843  ,Candan,M W ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,27 of 118 
+CSE 511,Data Processing at Scale,28983  ,Meduri,T ,7:30 PM ,8:45 PM ,Tempe - PSH152,01/11 - 04/23(C) ,3,5 of 168 
+CSE 512,Distributed Database Systems,19901  ,"Chowdhury, Elsayed",M W ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,2 of 133 
+CSE 520,Computer Architecture II,19908  ,Shrivastava,M W ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,64 of 123 
+CSE 522,Real-Time Embedded Systems,34669  ,Lee,T Th ,1:30 PM ,2:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,96 of 118 
+CSE 535,Mobile Computing,18375  ,"Banerjee, Hossain",T Th ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,37 of 125 
+CSE 539,Applied Cryptography,27404  ,Bazzi,M W ,12:00 PM ,1:15 PM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,42 of 83 
+CSE 543,Info Assurance & Security,24312  ,Yau,M W ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,21 of 148 
+CSE 545,Software Security,17920  ,Yau,M W ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,107 of 138 
+CSE 546,Cloud Computing,30711  ,Zhao,M W ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 125 
+CSE 548,Adv Computer Network Security,33028  ,Huang,F ,10:30 AM ,1:00 PM ,Tempe - DISCVRY350,01/11 - 04/23(C) ,3,50 of 70 
+CSE 551,Foundations of Algorithms,21651  ,"Choudhuri, Sen",T Th ,12:00 PM ,1:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 159 
+CSE 551,Foundations of Algorithms,30799  ,"Colbourn, Sumnicht",T Th ,7:30 AM ,8:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,80 of 153 
+CSE 564,Software Design,24210  ,Gonzalez Sanchez,M W ,1:30 PM ,2:45 PM ,Tempe - CAVC359,01/11 - 04/23(C) ,3,5 of 60 
+CSE 566,Software Proj/Process/Qual Mgt,11278  ,Collofello,T Th ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,2 of 145 
+CSE 566,Software Proj/Process/Qual Mgt,35959  ,Collofello,T Th ,3:00 PM ,4:15 PM ,Tempe - COOR199,01/11 - 04/23(C) ,3,2 of 20 
+CSE 573,Semantic Web Mining,24231  ,"Davulcu, Kamboj",T Th ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,1 of 200 
+CSE 574,Planning/Learning Methods AI,34692  ,"Dadvar, Srivastava",T Th ,9:00 AM ,10:15 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,61 of 100 
+CSE 575,Statistical Machine Learning,18194  ,Thakur,M W ,7:30 PM ,8:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,25 of 180 
+CSE 578,Data Visualization,26614  ,Ghayekhloo,M W ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,9 of 125 
+CSE 591,Topic: Vision & Language Frontier Topics Seminar,34308  ,"Baral, Yang",M W ,4:30 PM ,5:45 PM ,Tempe - BYAC110,01/11 - 04/23(C) ,3,34 of 50 
+CSE 591,Topic: Image Analytics & Informatics,24612  ,Liang,F ,10:55 AM ,1:40 PM ,Tempe - BYENGM1-09,01/11 - 04/23(C) ,3,28 of 30 
+CSE 595,Continuing Registration (RSC),13944  ,Select instructor during enrollment,,,,Tempe - TBA,03/08 - 04/23(B) ,1,28 of 30 
+CSE 598,Topic: Advances in Robot Learning,25146  ,Ben Amor,T Th ,3:00 PM ,4:15 PM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,19 of 55 
+CSE 598,Topic: Engineering Blockchain Applications,25145  ,Chakati,T Th ,12:00 PM ,1:15 PM ,Tempe - BYAC150,03/08 - 04/23(B) ,3,44 of 50 
+CSE 598,Topic: Computational Social Choice,23498  ,Escobedo,T Th ,9:00 AM ,10:15 AM ,Tempe - BYENG209,01/11 - 04/23(C) ,3,22 of 30 
+CSE 598,Topic: Quantum Computation,30662  ,Jiang,M W ,9:00 AM ,10:15 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,100 of 116 
+CSE 598,Topic: Perception in Robotics,24659  ,"Luo, Yang",M W ,3:00 PM ,4:15 PM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,15 of 105 
+CSE 598,Topic: Applied Vulnerability Research,25150  ,Shoshitaishvili,T ,12:00 PM ,2:45 PM ,Tempe - BYENGM1-09,01/11 - 04/23(C) ,3,27 of 46 
+CSE 598,Topic: Secure Computation for Machine Learning,34295  ,Trieu,T Th ,4:30 PM ,5:45 PM ,Tempe - CDN68,01/11 - 04/23(C) ,3,65 of 85 
+CSE 598,Topic: Data-Intensive Systems for Machine Learning,25151  ,Zou,T Th ,1:30 PM ,2:45 PM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,62 of 100 
+CSE 598,Topic: Software Integration and Engineering,19557,Chen,,,,Internet - Hybrid,,3,25 of 50
+CSE 598,Topic: Foundations of Social Media Mining,36577,Chen,,,,Internet - Hybrid,,3,88 of 100
+CSE 599,Thesis (RSC),11744  ,Select instructor during enrollment,,,,Tempe - TBA,01/11 - 04/23(C) ,6-Mar,16 of 69 
+CSE 599,Thesis (RSC),14725  ,Select instructor during enrollment,,,,Tempe - TBA,03/08 - 04/23(B) ,6-Mar,25 of 30 
+IEE 210,Intro Industrial Engineering,15631  ,Yauch,M W ,4:30 PM ,5:45 PM ,Tempe - PSF101,01/11 - 04/23(C) ,3,50 of 100 
+IEE 220,Business/Industrial Engr,11298  ,Kucukozyigit,M W ,1:30 PM ,2:45 PM ,Tempe - LIBC10,01/11 - 04/23(C) ,3,6 of 100 
+IEE 305,Information Systems Engr,13438  ,Fok,M W ,3:00 PM ,4:15 PM ,Tempe - SHESC340,01/11 - 04/23(C) ,3,44 of 100 
+IEE 320,Extreme Excel,19014  ,McCarville,,,,iCourse,01/11 - 03/02(A) ,1,18 of 200 
+IEE 321,Ethics&Technical Communication,21546  ,Starkey,W ,3:00 PM ,4:15 PM ,Internet - Hybrid,03/08 - 04/23,1,41 of 100 
+IEE 369,Work Analysis and Design,11162  ,McCarville,M W ,9:00 AM ,10:15 AM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,5 of 60 
+IEE 369,Laboratory,23892  ,McCarville,F,9:00 AM,11:30 AM,Tempe - TBA,01/11 - 04/23,0,5 of 60 
+IEE 376,Oper Rsrch Det Tech/Apps,11184  ,Sefair,M W ,1:30 PM ,2:45 PM ,Tempe - BYAC110,01/11 - 04/23(C) ,3,17 of 80 
+IEE 380,Prob & Stats Engr Prob Solving,18584  ,Byeon,T Th ,6:00 PM ,7:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,21 of 185 
+IEE 380,Prob & Stats Engr Prob Solving,32109  ,Zhou,M W ,4:30 PM ,5:45 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,5 of 185 
+IEE 381,Lean Six Sigma Methodology,16381  ,Jennings,T Th ,3:00 PM ,4:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,34 of 125 
+IEE 385,Engr Statistics - Probability,15090  ,Chattin,T Th ,6:00 PM ,7:15 PM ,Tempe - LIBC12,01/11 - 04/23(C) ,3,50 of 100 
+IEE 431,Engineering Administration,27284  ,Jennings,Sa ,9:00 AM ,11:30 AM ,Internet - Hybrid,03/08 - 04/23,3,2 of 50 
+IEE 454,Risk Management,27209  ,Kucukozyigit,M,3:00 PM ,4:15 PM ,Internet - Hybrid,03/08 - 04/23,3,64 of 100 
+IEE 456,Intro to Systems Engineering,27290  ,Kucukozyigit,M W ,3:00 PM ,4:15 PM ,Tempe - PSY102,01/11 - 03/02(A) ,3,56 of 100 
+IEE 458,Project Management,14206  ,McCarville,M W ,7:30 AM ,8:45 AM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,44 of 100 
+IEE 461,Production Control,11303  ,Akbari,M W ,4:30 PM ,5:45 PM ,Tempe - SCOB152,01/11 - 04/23(C) ,3,43 of 100 
+IEE 470,Stochastic Operations Research,24243  ,Loughman,T Th ,12:00 PM ,1:15 PM ,Internet - Hybrid,01/11 - 04/23,3,29 of 100 
+IEE 474,Quality Control,21471  ,Iquebal,M W ,10:30 AM ,11:45 AM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,33 of 100 
+IEE 475,Simulating Stochastic Systems,23328  ,Pedrielli,M W ,12:00 PM ,1:15 PM ,Tempe - BYAC210,01/11 - 04/23(C) ,3,15 of 50 
+IEE 475,Laboratory,23365  ,Pedrielli,W ,3:00 PM ,5:30 PM ,Tempe - BYENGM1-11,01/11 - 04/23(C) ,0,15 of 50 
+IEE 477,Syst Dyn & Thinking,15105  ,Juarez,T Th ,1:30 PM ,2:45 PM ,Tempe - BYAC150,01/11 - 04/23(C) ,3,23 of 60 
+IEE 484,Internship (PRA),28412  ,Select instructor during enrollment,,,,Tempe - TBA,01/11 - 04/23(C) ,1,29 of 30 
+IEE 486,Systems Design Capstone II,27278  ,Juarez,F ,9:00 AM ,11:45 AM ,Tempe - CAVC351,01/11 - 04/23(C) ,3,32 of 100 
+IEE 493,Honors Thesis (RSC),20514  ,Select instructor during enrollment,,,,Tempe - TBA,03/08 - 04/23(B) ,3,27 of 30 
+IEE 493,Honors Thesis (RSC),29219  ,Select instructor during enrollment,,,,Tempe - TBA,01/11 - 04/23(C) ,3,21 of 30 
+IEE 498,Topic: Computational Social Choice,29852  ,Escobedo,T Th ,9:00 AM ,10:15 AM ,Tempe - BYENG209,01/11 - 04/23(C) ,3,9 of 9 
+IEE 534,Supply Chain Modeling&Analysis,21470  ,Gel,M W ,12:00 PM ,1:15 PM ,Tempe - BDH211,01/11 - 04/23(C) ,3,27 of 50 
+IEE 556,Intro to Systems Engineering,29843  ,Kucukozyigit,W ,10:30 AM ,11:45 AM ,Internet - Hybrid,01/11 - 03/02,3,42 of 60 
+IEE 561,Production Systems,13199  ,Yao,T Th,10:30 AM,11:45 AM,Tempe - BDH201,01/11 - 04/23,3,34 of 60 
+IEE 572,Design Engineering Experiments,11157  ,Montgomery,M W ,4:30 PM ,5:45 PM ,Tempe - LIBC10,01/11 - 04/23(C) ,3,32 of 100 
+IEE 573,Reliability Engineering,29844  ,Pan,T Th ,1:30 PM ,2:45 PM ,Tempe - BYAC190,01/11 - 04/23(C) ,3,12 of 40 
+IEE 575,Appl Stochastic Oper Rsch Mdls,29845  ,Pedrielli,M ,10:30 AM ,11:45 AM ,Internet - Hybrid,01/11 - 04/23,3,8 of 50 
+IEE 577,Data Sci Sys Decision Analyt,27891  ,Yan,M W ,1:30 PM ,2:45 PM ,Tempe - BYENG210,01/11 - 04/23(C) ,3,4 of 50 
+IEE 581,Six Sigma Methodology,13721  ,Jennings,T Th ,12:00 PM ,1:15 PM ,Tempe - BYAC110,01/11 - 04/23(C) ,3,34 of 50 
+IEE 585,Six Sigma Capstone (PRA),13722  ,Jennings,,,,Internet - Hybrid,01/11 - 04/23,3,50 of 50 
+IEE 594,Conference and Workshop,35710  ,Select instructor during enrollment,T Th ,3:00 PM ,3:50 PM ,Tempe - BYAC150,01/11 - 04/23(C) ,1,26 of 30 
+IEE 598,Topic: Computational Social Choice,21977  ,Escobedo,T Th ,9:00 AM ,10:15 AM ,Tempe - BYENG209,01/11 - 04/23(C) ,3,20 of 30 
+IEE 598,Topic: Network Optimization and Algorithms,32252  ,Mirchandani,T Th ,6:00 PM ,7:15 PM ,Tempe - BYENG210,01/11 - 04/23(C) ,3,40 of 50 
+IEE 599,Thesis (RSC),14719  ,Select instructor during enrollment,,,,Tempe - TBA,01/11 - 04/23(C) ,6-Jan,26 of 30 
+IEE 605,Foundations of Information Sys,29853  ,Yan,M W ,3:00 PM ,4:14 PM ,Tempe - BYENGM1-09,01/11 - 04/23(C) ,3,29 of 46 
+IEE 622,Optimization II,19324  ,Escobedo,T Th ,7:30 AM ,8:45 AM ,Tempe - BYENG209,01/11 - 04/23(C) ,3,25 of 30 
+IEE 700,Research Methods,19337  ,Ye,W ,1:25 PM ,2:15 PM ,Tempe - BYENGM1-09,01/11 - 04/23(C) ,1,25 of 30 
+SER 216,Sftware Enterpr:PersProc&Qual (LEL),15070  ,Bansal,T Th ,1:30 PM ,2:45 PM ,Poly - PRLTA213,01/11 - 04/23(C) ,3,9 of 50 
+SER 222,Dsgn & Analy: Data Strs & Algo (LEL),15068  ,Acuna,M W ,10:30 AM ,11:45 AM ,Poly - PRLTA213,01/11 - 04/23(C) ,3,8 of 48 
+SER 232,Computer Systems Fundamentals (LEL),20035  ,Heinrichs,T Th ,12:00 PM ,1:15 PM ,Poly - SANTN339,01/11 - 04/23(C) ,3,17 of 51 
+SER 316,Software Enterprise: Cnstrct,18937  ,Mehlhase,M W ,10:30 AM ,11:45 AM ,Poly - AGBC134,01/11 - 04/23(C) ,3,38 of 85 
+SER 321,Software Systems (LEL),19460  ,Mehlhase,M W ,3:00 PM ,4:15 PM ,Poly - AGBC154,01/11 - 04/23(C) ,3,24 of 78 
+SER 322,Database Management (LEL),15069  ,Heinrichs,T Th ,3:00 PM ,4:15 PM ,Poly - PRLTA130,01/11 - 04/23(C) ,3,7 of 51 
+SER 334,Operating Systems&System Prog,15071  ,Acuna,M W ,1:30 PM ,2:45 PM ,Poly - PRLTA130,01/11 - 04/23(C) ,3,27 of 51 
+SER 335,Engin Secure Software Systems,29647  ,Gary,T Th ,12:00 PM ,1:15 PM ,Poly - PRLTA201,01/11 - 04/23(C) ,3,38 of 48 
+SER 402,Computing Capstone II,15075  ,Sandy,M W ,1:30 PM ,2:45 PM ,Poly - AGBC150,01/11 - 04/23(C) ,3,15 of 78 
+SER 416,Software Enterprise: Proj&Proc,18940  ,Suthar,M W ,12:00 PM ,1:15 PM ,Poly - AGBC134,01/11 - 04/23(C) ,3,10 of 72 
+SER 423,Mobile Systems,15076  ,Mudiam,,,,Internet - Hybrid,01/11 - 04/23(C) ,3,21 of 65 
+SER 463,Intro Human Computer Interactn,35745  ,"Atkinson, Xu",M W ,6:00 PM ,7:15 PM ,ASU Sync Only,01/11 - 04/23(C) ,3,14 of 20 
+SER 484,Internship (PRA),36230  ,Bansal,,,,Poly - TBA,03/08 - 04/23(B) ,3,4 of 5 
+SER 486,Embedded C Programming,18942  ,Sandy,T Th ,1:30 PM ,2:45 PM ,Poly - SANTN122,01/11 - 04/23(C) ,3,19 of 39 
+SER 502,Languages and Prog Paradigms (LEL),14486  ,Bansal,T Th ,10:30 AM ,11:45 AM ,ASU Sync Only,01/11 - 04/23(C) ,3,67 of 150 
+SER 516,Software Agility (LEL),14154  ,Gonzalez Sanchez,T Th ,4:30 PM ,5:45 PM ,Poly - PICHO150,01/11 - 04/23(C) ,3,17 of 100 
+SER 517,Software Factory I (LEL),22135  ,Findler,F ,10:30 AM ,1:15 PM ,Poly - AGBC134,01/11 - 04/23(C) ,3,24 of 101 

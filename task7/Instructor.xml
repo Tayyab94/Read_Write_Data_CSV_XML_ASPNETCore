@@ -1,0 +1,97 @@
+<Instructors>
+  <Instructor id="john.doe@gmail.com">
+    <Name>John Doe</Name>
+    <OfficeNumber>123</OfficeNumber>
+    <Email>john.doe@gmail.com</Email>
+  </Instructor>
+  <Instructor id="jane.smith@gmail.com">
+    <Name>Jane Smith</Name>
+    <OfficeNumber>456</OfficeNumber>
+    <Email>jane.smith@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Burger@gmail.com">
+    <Name>Burger</Name>
+    <OfficeNumber>12133</OfficeNumber>
+    <Email>Burger@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Kobayashi@yahoo.com">
+    <Name>Kobayashi</Name>
+    <OfficeNumber>1321</OfficeNumber>
+    <Email>Kobayashi@yahoo.com</Email>
+  </Instructor>
+  <Instructor id="Atkinson@gnail.com">
+    <Name>Atkinson</Name>
+    <OfficeNumber>123123</OfficeNumber>
+    <Email>Atkinson@gnail.com</Email>
+  </Instructor>
+  <Instructor id="Miller@gmail.com">
+    <Name>Miller</Name>
+    <OfficeNumber>12121</OfficeNumber>
+    <Email>Miller@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Feng@gmail.com">
+    <Name>Feng</Name>
+    <OfficeNumber>112312</OfficeNumber>
+    <Email>Feng@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Osburn@gmail.com">
+    <Name>Osburn</Name>
+    <OfficeNumber>341234</OfficeNumber>
+    <Email>Osburn@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Tadayon-Navabi@gmail.com">
+    <Name>Tadayon-Navabi</Name>
+    <OfficeNumber>1231231</OfficeNumber>
+    <Email>Tadayon-Navabi@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Nakamura@gmail.com">
+    <Name>Nakamura</Name>
+    <OfficeNumber>14234</OfficeNumber>
+    <Email>Nakamura@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Chen@gmail.com">
+    <Name>Chen</Name>
+    <OfficeNumber>24352353</OfficeNumber>
+    <Email>Chen@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Syrotiuk@gmail.com">
+    <Name>Syrotiuk</Name>
+    <OfficeNumber>123</OfficeNumber>
+    <Email>Syrotiuk@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Xue@gmail.com">
+    <Name>Xue</Name>
+    <OfficeNumber>1524</OfficeNumber>
+    <Email>Xue@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Zhao@gmail.com">
+    <Name>Zhao</Name>
+    <OfficeNumber>1231</OfficeNumber>
+    <Email>Zhao@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Meuth@gmail.com">
+    <Name>Meuth</Name>
+    <OfficeNumber>24</OfficeNumber>
+    <Email>Meuth@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Bao@gmail.com">
+    <Name>Bao</Name>
+    <OfficeNumber>52123</OfficeNumber>
+    <Email>Bao@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Shrivastava@gmail.com">
+    <Name>Shrivastava</Name>
+    <OfficeNumber>24532</OfficeNumber>
+    <Email>Shrivastava@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Wang, Yang@gmail.com">
+    <Name>Wang, Yang</Name>
+    <OfficeNumber>1231</OfficeNumber>
+    <Email>Wang, Yang@gmail.com</Email>
+  </Instructor>
+  <Instructor id="Candan@gmail.com">
+    <Name>Candan</Name>
+    <OfficeNumber>2341</OfficeNumber>
+    <Email>Candan@gmail.com</Email>
+  </Instructor>
+</Instructors>

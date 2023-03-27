@@ -1,0 +1,2690 @@
+<Courses>
+  <Course id="CPI 200">
+    <SubjectAndCode>CPI 200</SubjectAndCode>
+    <Title>Math Foundation of Informatics</Title>
+    <CourseId>15814  </CourseId>
+    <Instructor>Hansford</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - BYENG209</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>25 of 60 </Enrollment>
+  </Course>
+  <Course id="CPI 321">
+    <SubjectAndCode>CPI 321</SubjectAndCode>
+    <Title>Fundamentals of Game Art (LEL)</Title>
+    <CourseId>12499  </CourseId>
+    <Instructor>Kobayashi</Instructor>
+    <Days>Th </Days>
+    <Start>4:50 PM </Start>
+    <End>7:35 PM </End>
+    <Location>Tempe - BYENGM1-11</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 46 </Enrollment>
+  </Course>
+  <Course id="CPI 350">
+    <SubjectAndCode>CPI 350</SubjectAndCode>
+    <Title>Eval of Informatics Systems</Title>
+    <CourseId>13767  </CourseId>
+    <Instructor>Atkinson</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYENG209</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>3 of 69 </Enrollment>
+  </Course>
+  <Course id="CPI 394">
+    <SubjectAndCode>CPI 394</SubjectAndCode>
+    <Title>Topic: Game Design Fundamentals</Title>
+    <CourseId>32666  </CourseId>
+    <Instructor>Selgrad</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYAC110</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>16 of 75 </Enrollment>
+  </Course>
+  <Course id="CPI 411">
+    <SubjectAndCode>CPI 411</SubjectAndCode>
+    <Title>Graphics for Games</Title>
+    <CourseId>16884  </CourseId>
+    <Instructor>Kobayashi</Instructor>
+    <Days>T Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Tempe - BYENGM1-11</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>11 of 50 </Enrollment>
+  </Course>
+  <Course id="CPI 441">
+    <SubjectAndCode>CPI 441</SubjectAndCode>
+    <Title>Gaming Capstone (LEL)</Title>
+    <CourseId>12440  </CourseId>
+    <Instructor>Kobayashi</Instructor>
+    <Days>T </Days>
+    <Start>4:50 PM </Start>
+    <End>7:35 PM </End>
+    <Location>Tempe - BYENGM1-11</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>14 of 45 </Enrollment>
+  </Course>
+  <Course id="CSE 100">
+    <SubjectAndCode>CSE 100</SubjectAndCode>
+    <Title>Prin of Programming with C++</Title>
+    <CourseId>13552  </CourseId>
+    <Instructor>Burger</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>7 of 175 </Enrollment>
+  </Course>
+  <Course id="CSE 100">
+    <SubjectAndCode>CSE 100</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>15172  </CourseId>
+    <Instructor>Burger</Instructor>
+    <Days>Th </Days>
+    <Start>9:00 AM </Start>
+    <End>9:50 AM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 100">
+    <SubjectAndCode>CSE 100</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>20790  </CourseId>
+    <Instructor>Burger</Instructor>
+    <Days>T </Days>
+    <Start>9:00 AM </Start>
+    <End>9:50 AM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>3 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 100">
+    <SubjectAndCode>CSE 100</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>20791  </CourseId>
+    <Instructor>Burger</Instructor>
+    <Days>W </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 100">
+    <SubjectAndCode>CSE 100</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>20792  </CourseId>
+    <Instructor>Burger</Instructor>
+    <Days>F </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>2 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>20771  </CourseId>
+    <Instructor>Das, Suthar</Instructor>
+    <Days>T </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Poly - PRLTA202</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>4 of 21 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>20772  </CourseId>
+    <Instructor>Das, Suthar</Instructor>
+    <Days>Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Poly - PRLTA202</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>6 of 18 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Principles of Programming</Title>
+    <CourseId>11178  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>4 of 275 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Principles of Programming</Title>
+    <CourseId>15817  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>3 of 252 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Principles of Programming</Title>
+    <CourseId>29948  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>55 of 250 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>11196  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>M </Days>
+    <Start>2:30 PM </Start>
+    <End>3:20 PM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>2 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>15186  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>Th </Days>
+    <Start>3:00 PM </Start>
+    <End>3:50 PM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>4 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>16886  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:20 AM </End>
+    <Location>Tempe - ECGG324</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>18590  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>T </Days>
+    <Start>3:00 PM </Start>
+    <End>3:50 PM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>2 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>20793  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>T </Days>
+    <Start>10:30 AM </Start>
+    <End>11:20 AM </End>
+    <Location>Tempe - ECGG324</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>25281  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>W </Days>
+    <Start>9:05 AM </Start>
+    <End>9:55 AM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 36 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>25284  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:20 PM </End>
+    <Location>Tempe - COORL1-50</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 36 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>25286  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:20 PM </End>
+    <Location>Tempe - COORL1-38</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 36 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>29949  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>T </Days>
+    <Start>10:30 AM </Start>
+    <End>11:20 AM </End>
+    <Location>Tempe - LIBL60</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>24 of 75 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>29950  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:20 AM </End>
+    <Location>Tempe - LIBL60</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>17 of 75 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>29951  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>T </Days>
+    <Start>3:00 PM </Start>
+    <End>3:50 PM </End>
+    <Location>Tempe - LIBL60</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>29952  </CourseId>
+    <Instructor>Miller</Instructor>
+    <Days>Th </Days>
+    <Start>3:00 PM </Start>
+    <End>3:50 PM </End>
+    <Location>Tempe - LIBL60</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>13 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 110">
+    <SubjectAndCode>CSE 110</SubjectAndCode>
+    <Title>Principles of Programming</Title>
+    <CourseId>20770  </CourseId>
+    <Instructor>Suthar</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Poly - PRLTA202</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>10 of 39 </Enrollment>
+  </Course>
+  <Course id="CSE 120">
+    <SubjectAndCode>CSE 120</SubjectAndCode>
+    <Title>Digital Design Fundamentals</Title>
+    <CourseId>28566  </CourseId>
+    <Instructor>Millman</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - SCOB210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 58 </Enrollment>
+  </Course>
+  <Course id="CSE 120">
+    <SubjectAndCode>CSE 120</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>28567  </CourseId>
+    <Instructor>Millman</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 58 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>12605  </CourseId>
+    <Instructor>Feng</Instructor>
+    <Days>M W F </Days>
+    <Start>8:00 AM </Start>
+    <End>8:50 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>94 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>15818  </CourseId>
+    <Instructor>Feng</Instructor>
+    <Days>M W F </Days>
+    <Start>12:20 PM </Start>
+    <End>1:10 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>78 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>11206  </CourseId>
+    <Instructor>Hsiao</Instructor>
+    <Days>M W F </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>70 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>33115  </CourseId>
+    <Instructor>Hsiao</Instructor>
+    <Days>M W F </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>Tempe - SHESC340</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>46 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>15466  </CourseId>
+    <Instructor>Osburn</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>8 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>20773  </CourseId>
+    <Instructor>Osburn</Instructor>
+    <Days>T Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Poly - AGBC154</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>13 of 80 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>11272  </CourseId>
+    <Instructor>Tadayon-Navabi</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>41 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>11282  </CourseId>
+    <Instructor>Tadayon-Navabi</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>11 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>19341  </CourseId>
+    <Instructor>Tadayon-Navabi</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>4 of 166 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>33116  </CourseId>
+    <Instructor>Tadayon-Navabi</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>4 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 205">
+    <SubjectAndCode>CSE 205</SubjectAndCode>
+    <Title>Object-Oriented Program &amp; Data</Title>
+    <CourseId>33117  </CourseId>
+    <Instructor>Tadayon-Navabi</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>8 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 220">
+    <SubjectAndCode>CSE 220</SubjectAndCode>
+    <Title>Programming for Computer Engr</Title>
+    <CourseId>11243  </CourseId>
+    <Instructor>Farazi, Wang</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>110 of 175 </Enrollment>
+  </Course>
+  <Course id="CSE 230">
+    <SubjectAndCode>CSE 230</SubjectAndCode>
+    <Title>Computer Org/Assemb Lang Prog</Title>
+    <CourseId>20774  </CourseId>
+    <Instructor>Burger</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Poly - AGBC115</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>24 of 72 </Enrollment>
+  </Course>
+  <Course id="CSE 230">
+    <SubjectAndCode>CSE 230</SubjectAndCode>
+    <Title>Computer Org/Assemb Lang Prog</Title>
+    <CourseId>33122  </CourseId>
+    <Instructor>Nakamura</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Tempe - DISCVRY350</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 230">
+    <SubjectAndCode>CSE 230</SubjectAndCode>
+    <Title>Computer Org/Assemb Lang Prog</Title>
+    <CourseId>29751  </CourseId>
+    <Instructor>Vrudhula</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>16 of 169 </Enrollment>
+  </Course>
+  <Course id="CSE 240">
+    <SubjectAndCode>CSE 240</SubjectAndCode>
+    <Title>Intro to Programming Languages</Title>
+    <CourseId>13536  </CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>120 of 200 </Enrollment>
+  </Course>
+  <Course id="CSE 240">
+    <SubjectAndCode>CSE 240</SubjectAndCode>
+    <Title>Intro to Programming Languages</Title>
+    <CourseId>26611  </CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>65 of 200 </Enrollment>
+  </Course>
+  <Course id="CSE 240">
+    <SubjectAndCode>CSE 240</SubjectAndCode>
+    <Title>Intro to Programming Languages</Title>
+    <CourseId>33391  </CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - COOR120</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>25 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 240">
+    <SubjectAndCode>CSE 240</SubjectAndCode>
+    <Title>Intro to Programming Languages</Title>
+    <CourseId>33392  </CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYAC270</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 259">
+    <SubjectAndCode>CSE 259</SubjectAndCode>
+    <Title>Logic in Computer Science</Title>
+    <CourseId>19998  </CourseId>
+    <Instructor>Osburn</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - COOR199</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>14 of 86 </Enrollment>
+  </Course>
+  <Course id="CSE 259">
+    <SubjectAndCode>CSE 259</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>20019  </CourseId>
+    <Instructor>Osburn</Instructor>
+    <Days>M </Days>
+    <Start>10:10 AM </Start>
+    <End>11:00 AM </End>
+    <Location>Tempe - BYAC240</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>13 of 43 </Enrollment>
+  </Course>
+  <Course id="CSE 259">
+    <SubjectAndCode>CSE 259</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>20020  </CourseId>
+    <Instructor>Osburn</Instructor>
+    <Days>W </Days>
+    <Start>10:10 AM </Start>
+    <End>11:00 AM </End>
+    <Location>Tempe - BYAC240</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 43 </Enrollment>
+  </Course>
+  <Course id="CSE 301">
+    <SubjectAndCode>CSE 301</SubjectAndCode>
+    <Title>Computing Ethics</Title>
+    <CourseId>11189  </CourseId>
+    <Instructor>Hansford</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>iCourse</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>1</Units>
+    <Enrollment>1 of 330 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Data Structures and Algorithms</Title>
+    <CourseId>21622  </CourseId>
+    <Instructor>Syrotiuk</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>9 of 155 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>21623  </CourseId>
+    <Instructor>Syrotiuk</Instructor>
+    <Days>T </Days>
+    <Start>1:30 PM </Start>
+    <End>2:20 PM </End>
+    <Location>Tempe - BYAC260</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>2 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>21624  </CourseId>
+    <Instructor>Syrotiuk</Instructor>
+    <Days>F </Days>
+    <Start>4:40 PM </Start>
+    <End>5:30 PM </End>
+    <Location>Tempe - BYAC260</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>5 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>21625  </CourseId>
+    <Instructor>Syrotiuk</Instructor>
+    <Days>M </Days>
+    <Start>4:40 PM </Start>
+    <End>5:30 PM </End>
+    <Location>Tempe - BYAC260</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>29763  </CourseId>
+    <Instructor>Syrotiuk</Instructor>
+    <Days>Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:20 PM </End>
+    <Location>Tempe - BYAC260</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Data Structures and Algorithms</Title>
+    <CourseId>11638  </CourseId>
+    <Instructor>Xue</Instructor>
+    <Days>T Th </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 155 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18669  </CourseId>
+    <Instructor>Xue</Instructor>
+    <Days>Th </Days>
+    <Start>9:00 AM </Start>
+    <End>9:50 AM </End>
+    <Location>Tempe - BYAC260</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>2 of 26 </Enrollment>
+  </Course>
+  <Course id="CSE 310">
+    <SubjectAndCode>CSE 310</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18674  </CourseId>
+    <Instructor>Xue</Instructor>
+    <Days>W </Days>
+    <Start>9:05 AM </Start>
+    <End>9:55 AM </End>
+    <Location>Tempe - BYAC260</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 35 </Enrollment>
+  </Course>
+  <Course id="CSE 320">
+    <SubjectAndCode>CSE 320</SubjectAndCode>
+    <Title>Design/Syn Digital Hardware</Title>
+    <CourseId>11219  </CourseId>
+    <Instructor>Ren</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Tempe - CAVC359</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>36 of 80 </Enrollment>
+  </Course>
+  <Course id="CSE 320">
+    <SubjectAndCode>CSE 320</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>20109  </CourseId>
+    <Instructor>Ren</Instructor>
+    <Days>M </Days>
+    <Start>5:45 PM </Start>
+    <End>6:35 PM </End>
+    <Location>Tempe - BYENG210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>9 of 40 </Enrollment>
+  </Course>
+  <Course id="CSE 320">
+    <SubjectAndCode>CSE 320</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>20110  </CourseId>
+    <Instructor>Ren</Instructor>
+    <Days>W </Days>
+    <Start>5:45 PM </Start>
+    <End>6:35 PM </End>
+    <Location>Tempe - BYENG210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>27 of 40 </Enrollment>
+  </Course>
+  <Course id="CSE 325">
+    <SubjectAndCode>CSE 325</SubjectAndCode>
+    <Title>Embedded Microprocessor System</Title>
+    <CourseId>17929  </CourseId>
+    <Instructor>Meuth</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Tempe - CAVC359</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>6 of 80 </Enrollment>
+  </Course>
+  <Course id="CSE 325">
+    <SubjectAndCode>CSE 325</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18676  </CourseId>
+    <Instructor>Meuth</Instructor>
+    <Days>F </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>Tempe - BYENG210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>6 of 40 </Enrollment>
+  </Course>
+  <Course id="CSE 330">
+    <SubjectAndCode>CSE 330</SubjectAndCode>
+    <Title>Operating Systems</Title>
+    <CourseId>18480  </CourseId>
+    <Instructor>Zhao</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 265 </Enrollment>
+  </Course>
+  <Course id="CSE 330">
+    <SubjectAndCode>CSE 330</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>19940  </CourseId>
+    <Instructor>Zhao</Instructor>
+    <Days>F </Days>
+    <Start>9:00 AM </Start>
+    <End>9:50 AM </End>
+    <Location>Tempe - BYAC270</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 45 </Enrollment>
+  </Course>
+  <Course id="CSE 335">
+    <SubjectAndCode>CSE 335</SubjectAndCode>
+    <Title>Princ of Mobile App Dev (LEL)</Title>
+    <CourseId>29789  </CourseId>
+    <Instructor>Chakati</Instructor>
+    <Days>W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>86 of 150 </Enrollment>
+  </Course>
+  <Course id="CSE 340">
+    <SubjectAndCode>CSE 340</SubjectAndCode>
+    <Title>Principles of Programming Lang</Title>
+    <CourseId>29768  </CourseId>
+    <Instructor>Banerjee</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 152 </Enrollment>
+  </Course>
+  <Course id="CSE 340">
+    <SubjectAndCode>CSE 340</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>29771  </CourseId>
+    <Instructor>Banerjee</Instructor>
+    <Days>W </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>Tempe - COOR186</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 36 </Enrollment>
+  </Course>
+  <Course id="CSE 340">
+    <SubjectAndCode>CSE 340</SubjectAndCode>
+    <Title>Principles of Programming Lang</Title>
+    <CourseId>13883  </CourseId>
+    <Instructor>Fainekos</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>3 of 150 </Enrollment>
+  </Course>
+  <Course id="CSE 340">
+    <SubjectAndCode>CSE 340</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18681  </CourseId>
+    <Instructor>Fainekos</Instructor>
+    <Days>W </Days>
+    <Start>10:10 AM </Start>
+    <End>11:00 AM </End>
+    <Location>Tempe - BYAC150</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 38 </Enrollment>
+  </Course>
+  <Course id="CSE 340">
+    <SubjectAndCode>CSE 340</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18682  </CourseId>
+    <Instructor>Fainekos</Instructor>
+    <Days>F </Days>
+    <Start>10:10 AM </Start>
+    <End>11:00 AM </End>
+    <Location>Tempe - BYAC150</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 37 </Enrollment>
+  </Course>
+  <Course id="CSE 340">
+    <SubjectAndCode>CSE 340</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18683  </CourseId>
+    <Instructor>Fainekos</Instructor>
+    <Days>F </Days>
+    <Start>11:15 AM </Start>
+    <End>12:05 PM </End>
+    <Location>Tempe - COOR186</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 38 </Enrollment>
+  </Course>
+  <Course id="CSE 355">
+    <SubjectAndCode>CSE 355</SubjectAndCode>
+    <Title>Intro Theoretical Computer Sci</Title>
+    <CourseId>14169  </CourseId>
+    <Instructor>Colbourn</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>13 of 145 </Enrollment>
+  </Course>
+  <Course id="CSE 355">
+    <SubjectAndCode>CSE 355</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18684  </CourseId>
+    <Instructor>Colbourn</Instructor>
+    <Days>M </Days>
+    <Start>9:05 AM </Start>
+    <End>9:55 AM </End>
+    <Location>Tempe - BYAC190</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>2 of 42 </Enrollment>
+  </Course>
+  <Course id="CSE 355">
+    <SubjectAndCode>CSE 355</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18685  </CourseId>
+    <Instructor>Colbourn</Instructor>
+    <Days>W </Days>
+    <Start>9:05 AM </Start>
+    <End>9:55 AM </End>
+    <Location>Tempe - BYAC190</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 42 </Enrollment>
+  </Course>
+  <Course id="CSE 355">
+    <SubjectAndCode>CSE 355</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18686  </CourseId>
+    <Instructor>Colbourn</Instructor>
+    <Days>F </Days>
+    <Start>9:05 AM </Start>
+    <End>9:55 AM </End>
+    <Location>Tempe - BYAC190</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>9 of 42 </Enrollment>
+  </Course>
+  <Course id="CSE 355">
+    <SubjectAndCode>CSE 355</SubjectAndCode>
+    <Title>Recitation</Title>
+    <CourseId>18690  </CourseId>
+    <Instructor>Colbourn</Instructor>
+    <Days>T </Days>
+    <Start>1:30 PM </Start>
+    <End>2:20 PM </End>
+    <Location>Tempe - BYAC240</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>1 of 19 </Enrollment>
+  </Course>
+  <Course id="CSE 365">
+    <SubjectAndCode>CSE 365</SubjectAndCode>
+    <Title>Information Assurance</Title>
+    <CourseId>19897  </CourseId>
+    <Instructor>Bao</Instructor>
+    <Days>T Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>26 of 300 </Enrollment>
+  </Course>
+  <Course id="CSE 365">
+    <SubjectAndCode>CSE 365</SubjectAndCode>
+    <Title>Information Assurance</Title>
+    <CourseId>30175  </CourseId>
+    <Instructor>Doupe</Instructor>
+    <Days>M W </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 300 </Enrollment>
+  </Course>
+  <Course id="CSE 408">
+    <SubjectAndCode>CSE 408</SubjectAndCode>
+    <Title>Multimedia Information Systems</Title>
+    <CourseId>35239  </CourseId>
+    <Instructor>Caviedes</Instructor>
+    <Days>T Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 150 </Enrollment>
+  </Course>
+  <Course id="CSE 420">
+    <SubjectAndCode>CSE 420</SubjectAndCode>
+    <Title>Computer Architecture I</Title>
+    <CourseId>11213  </CourseId>
+    <Instructor>Shrivastava</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>58 of 132 </Enrollment>
+  </Course>
+  <Course id="CSE 423">
+    <SubjectAndCode>CSE 423</SubjectAndCode>
+    <Title>Systems Capstone Project I</Title>
+    <CourseId>12844  </CourseId>
+    <Instructor>Meuth</Instructor>
+    <Days>Th</Days>
+    <Start>9:00 AM</Start>
+    <End>10:15 AM</End>
+    <Location>Tempe - BYAC110</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>39 of 60 </Enrollment>
+  </Course>
+  <Course id="CSE 424">
+    <SubjectAndCode>CSE 424</SubjectAndCode>
+    <Title>Systems Capstone Project II</Title>
+    <CourseId>11158  </CourseId>
+    <Instructor>Meuth</Instructor>
+    <Days>T</Days>
+    <Start>9:00 AM</Start>
+    <End>10:15 AM</End>
+    <Location>Tempe - BYAC110</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>5 of 60 </Enrollment>
+  </Course>
+  <Course id="CSE 434">
+    <SubjectAndCode>CSE 434</SubjectAndCode>
+    <Title>Computer Networks</Title>
+    <CourseId>11169  </CourseId>
+    <Instructor>Syrotiuk</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>11 of 149 </Enrollment>
+  </Course>
+  <Course id="CSE 438">
+    <SubjectAndCode>CSE 438</SubjectAndCode>
+    <Title>Embedded Systems Programming</Title>
+    <CourseId>32920  </CourseId>
+    <Instructor>Lee</Instructor>
+    <Days>T Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>93 of 125 </Enrollment>
+  </Course>
+  <Course id="CSE 445">
+    <SubjectAndCode>CSE 445</SubjectAndCode>
+    <Title>Distributed Software Developmt</Title>
+    <CourseId>11266  </CourseId>
+    <Instructor>Balasooriya</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>199 of 199 </Enrollment>
+  </Course>
+  <Course id="CSE 446">
+    <SubjectAndCode>CSE 446</SubjectAndCode>
+    <Title>Software Integration and Engr</Title>
+    <CourseId>13841</CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>159of 200</Enrollment>
+  </Course>
+  <Course id="CSE 450">
+    <SubjectAndCode>CSE 450</SubjectAndCode>
+    <Title>Design&amp;Analysis of Algorithms</Title>
+    <CourseId>19898  </CourseId>
+    <Instructor>Basu, Sen</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>Tempe - CAVC359</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>31 of 80 </Enrollment>
+  </Course>
+  <Course id="CSE 460">
+    <SubjectAndCode>CSE 460</SubjectAndCode>
+    <Title>Software Analysis and Design</Title>
+    <CourseId>11639  </CourseId>
+    <Instructor>Gonzalez Sanchez</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 132 </Enrollment>
+  </Course>
+  <Course id="CSE 463">
+    <SubjectAndCode>CSE 463</SubjectAndCode>
+    <Title>Intro Human Computer Interactn</Title>
+    <CourseId>13874  </CourseId>
+    <Instructor>Atkinson, Xu</Instructor>
+    <Days>M W </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>45 of 330 </Enrollment>
+  </Course>
+  <Course id="CSE 464">
+    <SubjectAndCode>CSE 464</SubjectAndCode>
+    <Title>Software QA and Testing</Title>
+    <CourseId>20414  </CourseId>
+    <Instructor>Balasooriya</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 199 </Enrollment>
+  </Course>
+  <Course id="CSE 469">
+    <SubjectAndCode>CSE 469</SubjectAndCode>
+    <Title>Computer and Network Forensics</Title>
+    <CourseId>14181  </CourseId>
+    <Instructor>BAEK</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>40 of 142 </Enrollment>
+  </Course>
+  <Course id="CSE 470">
+    <SubjectAndCode>CSE 470</SubjectAndCode>
+    <Title>Computer Graphics</Title>
+    <CourseId>19306  </CourseId>
+    <Instructor>Hansford</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>21 of 149 </Enrollment>
+  </Course>
+  <Course id="CSE 471">
+    <SubjectAndCode>CSE 471</SubjectAndCode>
+    <Title>Intro Artificial Intelligence</Title>
+    <CourseId>12881  </CourseId>
+    <Instructor>Hanni, Zhang</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>69 of 190 </Enrollment>
+  </Course>
+  <Course id="CSE 475">
+    <SubjectAndCode>CSE 475</SubjectAndCode>
+    <Title>Found of Machine Learning</Title>
+    <CourseId>34714  </CourseId>
+    <Instructor>Wang, Yang</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>38 of 149 </Enrollment>
+  </Course>
+  <Course id="CSE 484">
+    <SubjectAndCode>CSE 484</SubjectAndCode>
+    <Title>Topic: Department (PRA)</Title>
+    <CourseId>12884  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>22 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 484">
+    <SubjectAndCode>CSE 484</SubjectAndCode>
+    <Title>Topic: Department (PRA)</Title>
+    <CourseId>15729  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>03/08 - 04/23(B) </Dates>
+    <Units>3</Units>
+    <Enrollment>26 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 485">
+    <SubjectAndCode>CSE 485</SubjectAndCode>
+    <Title>Computer Sci Capstone Proj I</Title>
+    <CourseId>19043  </CourseId>
+    <Instructor>Amperayani, Chavez-Echeagaray</Instructor>
+    <Days>M </Days>
+    <Start>2:30 PM </Start>
+    <End>3:20 PM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>26 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 485">
+    <SubjectAndCode>CSE 485</SubjectAndCode>
+    <Title>Computer Sci Capstone Proj I</Title>
+    <CourseId>19044  </CourseId>
+    <Instructor>Amperayani, Chavez-Echeagaray</Instructor>
+    <Days>W</Days>
+    <Start>2:30 PM</Start>
+    <End>3:20 PM</End>
+    <Location>Tempe - BYAC270</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 485">
+    <SubjectAndCode>CSE 485</SubjectAndCode>
+    <Title>Computer Sci Capstone Proj I</Title>
+    <CourseId>19045  </CourseId>
+    <Instructor>Chavez-Echeagaray, Hossain</Instructor>
+    <Days>F</Days>
+    <Start>2:30 PM</Start>
+    <End>3:20 PM</End>
+    <Location>Tempe - BYAC270</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>37 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 485">
+    <SubjectAndCode>CSE 485</SubjectAndCode>
+    <Title>Computer Sci Capstone Proj I</Title>
+    <CourseId>12891  </CourseId>
+    <Instructor>Chavez-Echeagaray, Jha</Instructor>
+    <Days>T</Days>
+    <Start>9:00 AM</Start>
+    <End>9:50 AM</End>
+    <Location>Tempe - BYAC270</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>14 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 485">
+    <SubjectAndCode>CSE 485</SubjectAndCode>
+    <Title>Computer Sci Capstone Proj I</Title>
+    <CourseId>21405  </CourseId>
+    <Instructor>Chavez-Echeagaray, Jha</Instructor>
+    <Days>Th</Days>
+    <Start>9:00 AM</Start>
+    <End>9:50 AM</End>
+    <Location>Tempe - BYAC270</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>41 of 55 </Enrollment>
+  </Course>
+  <Course id="CSE 509">
+    <SubjectAndCode>CSE 509</SubjectAndCode>
+    <Title>Digital Video Processing</Title>
+    <CourseId>35240  </CourseId>
+    <Instructor>Caviedes, Jiang</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYENG210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>24 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 510">
+    <SubjectAndCode>CSE 510</SubjectAndCode>
+    <Title>Database Mgmt Sys Implementn</Title>
+    <CourseId>12843  </CourseId>
+    <Instructor>Candan</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 118 </Enrollment>
+  </Course>
+  <Course id="CSE 511">
+    <SubjectAndCode>CSE 511</SubjectAndCode>
+    <Title>Data Processing at Scale</Title>
+    <CourseId>28983  </CourseId>
+    <Instructor>Meduri</Instructor>
+    <Days>T </Days>
+    <Start>7:30 PM </Start>
+    <End>8:45 PM </End>
+    <Location>Tempe - PSH152</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>5 of 168 </Enrollment>
+  </Course>
+  <Course id="CSE 512">
+    <SubjectAndCode>CSE 512</SubjectAndCode>
+    <Title>Distributed Database Systems</Title>
+    <CourseId>19901  </CourseId>
+    <Instructor>Chowdhury, Elsayed</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 133 </Enrollment>
+  </Course>
+  <Course id="CSE 520">
+    <SubjectAndCode>CSE 520</SubjectAndCode>
+    <Title>Computer Architecture II</Title>
+    <CourseId>19908  </CourseId>
+    <Instructor>Shrivastava</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>64 of 123 </Enrollment>
+  </Course>
+  <Course id="CSE 522">
+    <SubjectAndCode>CSE 522</SubjectAndCode>
+    <Title>Real-Time Embedded Systems</Title>
+    <CourseId>34669  </CourseId>
+    <Instructor>Lee</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>96 of 118 </Enrollment>
+  </Course>
+  <Course id="CSE 535">
+    <SubjectAndCode>CSE 535</SubjectAndCode>
+    <Title>Mobile Computing</Title>
+    <CourseId>18375  </CourseId>
+    <Instructor>Banerjee, Hossain</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>37 of 125 </Enrollment>
+  </Course>
+  <Course id="CSE 539">
+    <SubjectAndCode>CSE 539</SubjectAndCode>
+    <Title>Applied Cryptography</Title>
+    <CourseId>27404  </CourseId>
+    <Instructor>Bazzi</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>42 of 83 </Enrollment>
+  </Course>
+  <Course id="CSE 543">
+    <SubjectAndCode>CSE 543</SubjectAndCode>
+    <Title>Info Assurance &amp; Security</Title>
+    <CourseId>24312  </CourseId>
+    <Instructor>Yau</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>21 of 148 </Enrollment>
+  </Course>
+  <Course id="CSE 545">
+    <SubjectAndCode>CSE 545</SubjectAndCode>
+    <Title>Software Security</Title>
+    <CourseId>17920  </CourseId>
+    <Instructor>Yau</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>107 of 138 </Enrollment>
+  </Course>
+  <Course id="CSE 546">
+    <SubjectAndCode>CSE 546</SubjectAndCode>
+    <Title>Cloud Computing</Title>
+    <CourseId>30711  </CourseId>
+    <Instructor>Zhao</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 125 </Enrollment>
+  </Course>
+  <Course id="CSE 548">
+    <SubjectAndCode>CSE 548</SubjectAndCode>
+    <Title>Adv Computer Network Security</Title>
+    <CourseId>33028  </CourseId>
+    <Instructor>Huang</Instructor>
+    <Days>F </Days>
+    <Start>10:30 AM </Start>
+    <End>1:00 PM </End>
+    <Location>Tempe - DISCVRY350</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>50 of 70 </Enrollment>
+  </Course>
+  <Course id="CSE 551">
+    <SubjectAndCode>CSE 551</SubjectAndCode>
+    <Title>Foundations of Algorithms</Title>
+    <CourseId>21651  </CourseId>
+    <Instructor>Choudhuri, Sen</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 159 </Enrollment>
+  </Course>
+  <Course id="CSE 551">
+    <SubjectAndCode>CSE 551</SubjectAndCode>
+    <Title>Foundations of Algorithms</Title>
+    <CourseId>30799  </CourseId>
+    <Instructor>Colbourn, Sumnicht</Instructor>
+    <Days>T Th </Days>
+    <Start>7:30 AM </Start>
+    <End>8:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>80 of 153 </Enrollment>
+  </Course>
+  <Course id="CSE 564">
+    <SubjectAndCode>CSE 564</SubjectAndCode>
+    <Title>Software Design</Title>
+    <CourseId>24210  </CourseId>
+    <Instructor>Gonzalez Sanchez</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - CAVC359</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>5 of 60 </Enrollment>
+  </Course>
+  <Course id="CSE 566">
+    <SubjectAndCode>CSE 566</SubjectAndCode>
+    <Title>Software Proj/Process/Qual Mgt</Title>
+    <CourseId>11278  </CourseId>
+    <Instructor>Collofello</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 145 </Enrollment>
+  </Course>
+  <Course id="CSE 566">
+    <SubjectAndCode>CSE 566</SubjectAndCode>
+    <Title>Software Proj/Process/Qual Mgt</Title>
+    <CourseId>35959  </CourseId>
+    <Instructor>Collofello</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Tempe - COOR199</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 20 </Enrollment>
+  </Course>
+  <Course id="CSE 573">
+    <SubjectAndCode>CSE 573</SubjectAndCode>
+    <Title>Semantic Web Mining</Title>
+    <CourseId>24231  </CourseId>
+    <Instructor>Davulcu, Kamboj</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>1 of 200 </Enrollment>
+  </Course>
+  <Course id="CSE 574">
+    <SubjectAndCode>CSE 574</SubjectAndCode>
+    <Title>Planning/Learning Methods AI</Title>
+    <CourseId>34692  </CourseId>
+    <Instructor>Dadvar, Srivastava</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>61 of 100 </Enrollment>
+  </Course>
+  <Course id="CSE 575">
+    <SubjectAndCode>CSE 575</SubjectAndCode>
+    <Title>Statistical Machine Learning</Title>
+    <CourseId>18194  </CourseId>
+    <Instructor>Thakur</Instructor>
+    <Days>M W </Days>
+    <Start>7:30 PM </Start>
+    <End>8:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>25 of 180 </Enrollment>
+  </Course>
+  <Course id="CSE 578">
+    <SubjectAndCode>CSE 578</SubjectAndCode>
+    <Title>Data Visualization</Title>
+    <CourseId>26614  </CourseId>
+    <Instructor>Ghayekhloo</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>9 of 125 </Enrollment>
+  </Course>
+  <Course id="CSE 591">
+    <SubjectAndCode>CSE 591</SubjectAndCode>
+    <Title>Topic: Vision &amp; Language Frontier Topics Seminar</Title>
+    <CourseId>34308  </CourseId>
+    <Instructor>Baral, Yang</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - BYAC110</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>34 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 591">
+    <SubjectAndCode>CSE 591</SubjectAndCode>
+    <Title>Topic: Image Analytics &amp; Informatics</Title>
+    <CourseId>24612  </CourseId>
+    <Instructor>Liang</Instructor>
+    <Days>F </Days>
+    <Start>10:55 AM </Start>
+    <End>1:40 PM </End>
+    <Location>Tempe - BYENGM1-09</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>28 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 595">
+    <SubjectAndCode>CSE 595</SubjectAndCode>
+    <Title>Continuing Registration (RSC)</Title>
+    <CourseId>13944  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>03/08 - 04/23(B) </Dates>
+    <Units>1</Units>
+    <Enrollment>28 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Advances in Robot Learning</Title>
+    <CourseId>25146  </CourseId>
+    <Instructor>Ben Amor</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>19 of 55 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Engineering Blockchain Applications</Title>
+    <CourseId>25145  </CourseId>
+    <Instructor>Chakati</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - BYAC150</Location>
+    <Dates>03/08 - 04/23(B) </Dates>
+    <Units>3</Units>
+    <Enrollment>44 of 50 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Computational Social Choice</Title>
+    <CourseId>23498  </CourseId>
+    <Instructor>Escobedo</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>Tempe - BYENG209</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>22 of 30 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Quantum Computation</Title>
+    <CourseId>30662  </CourseId>
+    <Instructor>Jiang</Instructor>
+    <Days>M W </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>100 of 116 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Perception in Robotics</Title>
+    <CourseId>24659  </CourseId>
+    <Instructor>Luo, Yang</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>15 of 105 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Applied Vulnerability Research</Title>
+    <CourseId>25150  </CourseId>
+    <Instructor>Shoshitaishvili</Instructor>
+    <Days>T </Days>
+    <Start>12:00 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYENGM1-09</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 46 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Secure Computation for Machine Learning</Title>
+    <CourseId>34295  </CourseId>
+    <Instructor>Trieu</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - CDN68</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>65 of 85 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Data-Intensive Systems for Machine Learning</Title>
+    <CourseId>25151  </CourseId>
+    <Instructor>Zou</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>62 of 100 </Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Software Integration and Engineering</Title>
+    <CourseId>19557</CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>
+    </Dates>
+    <Units>3</Units>
+    <Enrollment>25 of 50</Enrollment>
+  </Course>
+  <Course id="CSE 598">
+    <SubjectAndCode>CSE 598</SubjectAndCode>
+    <Title>Topic: Foundations of Social Media Mining</Title>
+    <CourseId>36577</CourseId>
+    <Instructor>Chen</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>
+    </Dates>
+    <Units>3</Units>
+    <Enrollment>88 of 100</Enrollment>
+  </Course>
+  <Course id="CSE 599">
+    <SubjectAndCode>CSE 599</SubjectAndCode>
+    <Title>Thesis (RSC)</Title>
+    <CourseId>11744  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>6-Mar</Units>
+    <Enrollment>16 of 69 </Enrollment>
+  </Course>
+  <Course id="CSE 599">
+    <SubjectAndCode>CSE 599</SubjectAndCode>
+    <Title>Thesis (RSC)</Title>
+    <CourseId>14725  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>03/08 - 04/23(B) </Dates>
+    <Units>6-Mar</Units>
+    <Enrollment>25 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 210">
+    <SubjectAndCode>IEE 210</SubjectAndCode>
+    <Title>Intro Industrial Engineering</Title>
+    <CourseId>15631  </CourseId>
+    <Instructor>Yauch</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - PSF101</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>50 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 220">
+    <SubjectAndCode>IEE 220</SubjectAndCode>
+    <Title>Business/Industrial Engr</Title>
+    <CourseId>11298  </CourseId>
+    <Instructor>Kucukozyigit</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - LIBC10</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>6 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 305">
+    <SubjectAndCode>IEE 305</SubjectAndCode>
+    <Title>Information Systems Engr</Title>
+    <CourseId>13438  </CourseId>
+    <Instructor>Fok</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Tempe - SHESC340</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>44 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 320">
+    <SubjectAndCode>IEE 320</SubjectAndCode>
+    <Title>Extreme Excel</Title>
+    <CourseId>19014  </CourseId>
+    <Instructor>McCarville</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>iCourse</Location>
+    <Dates>01/11 - 03/02(A) </Dates>
+    <Units>1</Units>
+    <Enrollment>18 of 200 </Enrollment>
+  </Course>
+  <Course id="IEE 321">
+    <SubjectAndCode>IEE 321</SubjectAndCode>
+    <Title>Ethics&amp;Technical Communication</Title>
+    <CourseId>21546  </CourseId>
+    <Instructor>Starkey</Instructor>
+    <Days>W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>03/08 - 04/23</Dates>
+    <Units>1</Units>
+    <Enrollment>41 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 369">
+    <SubjectAndCode>IEE 369</SubjectAndCode>
+    <Title>Work Analysis and Design</Title>
+    <CourseId>11162  </CourseId>
+    <Instructor>McCarville</Instructor>
+    <Days>M W </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>5 of 60 </Enrollment>
+  </Course>
+  <Course id="IEE 369">
+    <SubjectAndCode>IEE 369</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>23892  </CourseId>
+    <Instructor>McCarville</Instructor>
+    <Days>F</Days>
+    <Start>9:00 AM</Start>
+    <End>11:30 AM</End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>0</Units>
+    <Enrollment>5 of 60 </Enrollment>
+  </Course>
+  <Course id="IEE 376">
+    <SubjectAndCode>IEE 376</SubjectAndCode>
+    <Title>Oper Rsrch Det Tech/Apps</Title>
+    <CourseId>11184  </CourseId>
+    <Instructor>Sefair</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYAC110</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>17 of 80 </Enrollment>
+  </Course>
+  <Course id="IEE 380">
+    <SubjectAndCode>IEE 380</SubjectAndCode>
+    <Title>Prob &amp; Stats Engr Prob Solving</Title>
+    <CourseId>18584  </CourseId>
+    <Instructor>Byeon</Instructor>
+    <Days>T Th </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>21 of 185 </Enrollment>
+  </Course>
+  <Course id="IEE 380">
+    <SubjectAndCode>IEE 380</SubjectAndCode>
+    <Title>Prob &amp; Stats Engr Prob Solving</Title>
+    <CourseId>32109  </CourseId>
+    <Instructor>Zhou</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>5 of 185 </Enrollment>
+  </Course>
+  <Course id="IEE 381">
+    <SubjectAndCode>IEE 381</SubjectAndCode>
+    <Title>Lean Six Sigma Methodology</Title>
+    <CourseId>16381  </CourseId>
+    <Instructor>Jennings</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>34 of 125 </Enrollment>
+  </Course>
+  <Course id="IEE 385">
+    <SubjectAndCode>IEE 385</SubjectAndCode>
+    <Title>Engr Statistics - Probability</Title>
+    <CourseId>15090  </CourseId>
+    <Instructor>Chattin</Instructor>
+    <Days>T Th </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>Tempe - LIBC12</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>50 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 431">
+    <SubjectAndCode>IEE 431</SubjectAndCode>
+    <Title>Engineering Administration</Title>
+    <CourseId>27284  </CourseId>
+    <Instructor>Jennings</Instructor>
+    <Days>Sa </Days>
+    <Start>9:00 AM </Start>
+    <End>11:30 AM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>03/08 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>2 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 454">
+    <SubjectAndCode>IEE 454</SubjectAndCode>
+    <Title>Risk Management</Title>
+    <CourseId>27209  </CourseId>
+    <Instructor>Kucukozyigit</Instructor>
+    <Days>M</Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>03/08 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>64 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 456">
+    <SubjectAndCode>IEE 456</SubjectAndCode>
+    <Title>Intro to Systems Engineering</Title>
+    <CourseId>27290  </CourseId>
+    <Instructor>Kucukozyigit</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Tempe - PSY102</Location>
+    <Dates>01/11 - 03/02(A) </Dates>
+    <Units>3</Units>
+    <Enrollment>56 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 458">
+    <SubjectAndCode>IEE 458</SubjectAndCode>
+    <Title>Project Management</Title>
+    <CourseId>14206  </CourseId>
+    <Instructor>McCarville</Instructor>
+    <Days>M W </Days>
+    <Start>7:30 AM </Start>
+    <End>8:45 AM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>44 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 461">
+    <SubjectAndCode>IEE 461</SubjectAndCode>
+    <Title>Production Control</Title>
+    <CourseId>11303  </CourseId>
+    <Instructor>Akbari</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - SCOB152</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>43 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 470">
+    <SubjectAndCode>IEE 470</SubjectAndCode>
+    <Title>Stochastic Operations Research</Title>
+    <CourseId>24243  </CourseId>
+    <Instructor>Loughman</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>29 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 474">
+    <SubjectAndCode>IEE 474</SubjectAndCode>
+    <Title>Quality Control</Title>
+    <CourseId>21471  </CourseId>
+    <Instructor>Iquebal</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>33 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 475">
+    <SubjectAndCode>IEE 475</SubjectAndCode>
+    <Title>Simulating Stochastic Systems</Title>
+    <CourseId>23328  </CourseId>
+    <Instructor>Pedrielli</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - BYAC210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>15 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 475">
+    <SubjectAndCode>IEE 475</SubjectAndCode>
+    <Title>Laboratory</Title>
+    <CourseId>23365  </CourseId>
+    <Instructor>Pedrielli</Instructor>
+    <Days>W </Days>
+    <Start>3:00 PM </Start>
+    <End>5:30 PM </End>
+    <Location>Tempe - BYENGM1-11</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>0</Units>
+    <Enrollment>15 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 477">
+    <SubjectAndCode>IEE 477</SubjectAndCode>
+    <Title>Syst Dyn &amp; Thinking</Title>
+    <CourseId>15105  </CourseId>
+    <Instructor>Juarez</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYAC150</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>23 of 60 </Enrollment>
+  </Course>
+  <Course id="IEE 484">
+    <SubjectAndCode>IEE 484</SubjectAndCode>
+    <Title>Internship (PRA)</Title>
+    <CourseId>28412  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>1</Units>
+    <Enrollment>29 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 486">
+    <SubjectAndCode>IEE 486</SubjectAndCode>
+    <Title>Systems Design Capstone II</Title>
+    <CourseId>27278  </CourseId>
+    <Instructor>Juarez</Instructor>
+    <Days>F </Days>
+    <Start>9:00 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Tempe - CAVC351</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>32 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 493">
+    <SubjectAndCode>IEE 493</SubjectAndCode>
+    <Title>Honors Thesis (RSC)</Title>
+    <CourseId>20514  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>03/08 - 04/23(B) </Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 493">
+    <SubjectAndCode>IEE 493</SubjectAndCode>
+    <Title>Honors Thesis (RSC)</Title>
+    <CourseId>29219  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>21 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 498">
+    <SubjectAndCode>IEE 498</SubjectAndCode>
+    <Title>Topic: Computational Social Choice</Title>
+    <CourseId>29852  </CourseId>
+    <Instructor>Escobedo</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>Tempe - BYENG209</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>9 of 9 </Enrollment>
+  </Course>
+  <Course id="IEE 534">
+    <SubjectAndCode>IEE 534</SubjectAndCode>
+    <Title>Supply Chain Modeling&amp;Analysis</Title>
+    <CourseId>21470  </CourseId>
+    <Instructor>Gel</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - BDH211</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 556">
+    <SubjectAndCode>IEE 556</SubjectAndCode>
+    <Title>Intro to Systems Engineering</Title>
+    <CourseId>29843  </CourseId>
+    <Instructor>Kucukozyigit</Instructor>
+    <Days>W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 03/02</Dates>
+    <Units>3</Units>
+    <Enrollment>42 of 60 </Enrollment>
+  </Course>
+  <Course id="IEE 561">
+    <SubjectAndCode>IEE 561</SubjectAndCode>
+    <Title>Production Systems</Title>
+    <CourseId>13199  </CourseId>
+    <Instructor>Yao</Instructor>
+    <Days>T Th</Days>
+    <Start>10:30 AM</Start>
+    <End>11:45 AM</End>
+    <Location>Tempe - BDH201</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>34 of 60 </Enrollment>
+  </Course>
+  <Course id="IEE 572">
+    <SubjectAndCode>IEE 572</SubjectAndCode>
+    <Title>Design Engineering Experiments</Title>
+    <CourseId>11157  </CourseId>
+    <Instructor>Montgomery</Instructor>
+    <Days>M W </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Tempe - LIBC10</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>32 of 100 </Enrollment>
+  </Course>
+  <Course id="IEE 573">
+    <SubjectAndCode>IEE 573</SubjectAndCode>
+    <Title>Reliability Engineering</Title>
+    <CourseId>29844  </CourseId>
+    <Instructor>Pan</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYAC190</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>12 of 40 </Enrollment>
+  </Course>
+  <Course id="IEE 575">
+    <SubjectAndCode>IEE 575</SubjectAndCode>
+    <Title>Appl Stochastic Oper Rsch Mdls</Title>
+    <CourseId>29845  </CourseId>
+    <Instructor>Pedrielli</Instructor>
+    <Days>M </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>8 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 577">
+    <SubjectAndCode>IEE 577</SubjectAndCode>
+    <Title>Data Sci Sys Decision Analyt</Title>
+    <CourseId>27891  </CourseId>
+    <Instructor>Yan</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Tempe - BYENG210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>4 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 581">
+    <SubjectAndCode>IEE 581</SubjectAndCode>
+    <Title>Six Sigma Methodology</Title>
+    <CourseId>13721  </CourseId>
+    <Instructor>Jennings</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Tempe - BYAC110</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>34 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 585">
+    <SubjectAndCode>IEE 585</SubjectAndCode>
+    <Title>Six Sigma Capstone (PRA)</Title>
+    <CourseId>13722  </CourseId>
+    <Instructor>Jennings</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23</Dates>
+    <Units>3</Units>
+    <Enrollment>50 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 594">
+    <SubjectAndCode>IEE 594</SubjectAndCode>
+    <Title>Conference and Workshop</Title>
+    <CourseId>35710  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>3:50 PM </End>
+    <Location>Tempe - BYAC150</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>1</Units>
+    <Enrollment>26 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 598">
+    <SubjectAndCode>IEE 598</SubjectAndCode>
+    <Title>Topic: Computational Social Choice</Title>
+    <CourseId>21977  </CourseId>
+    <Instructor>Escobedo</Instructor>
+    <Days>T Th </Days>
+    <Start>9:00 AM </Start>
+    <End>10:15 AM </End>
+    <Location>Tempe - BYENG209</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>20 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 598">
+    <SubjectAndCode>IEE 598</SubjectAndCode>
+    <Title>Topic: Network Optimization and Algorithms</Title>
+    <CourseId>32252  </CourseId>
+    <Instructor>Mirchandani</Instructor>
+    <Days>T Th </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>Tempe - BYENG210</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>40 of 50 </Enrollment>
+  </Course>
+  <Course id="IEE 599">
+    <SubjectAndCode>IEE 599</SubjectAndCode>
+    <Title>Thesis (RSC)</Title>
+    <CourseId>14719  </CourseId>
+    <Instructor>Select instructor during enrollment</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Tempe - TBA</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>6-Jan</Units>
+    <Enrollment>26 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 605">
+    <SubjectAndCode>IEE 605</SubjectAndCode>
+    <Title>Foundations of Information Sys</Title>
+    <CourseId>29853  </CourseId>
+    <Instructor>Yan</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:14 PM </End>
+    <Location>Tempe - BYENGM1-09</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>29 of 46 </Enrollment>
+  </Course>
+  <Course id="IEE 622">
+    <SubjectAndCode>IEE 622</SubjectAndCode>
+    <Title>Optimization II</Title>
+    <CourseId>19324  </CourseId>
+    <Instructor>Escobedo</Instructor>
+    <Days>T Th </Days>
+    <Start>7:30 AM </Start>
+    <End>8:45 AM </End>
+    <Location>Tempe - BYENG209</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>25 of 30 </Enrollment>
+  </Course>
+  <Course id="IEE 700">
+    <SubjectAndCode>IEE 700</SubjectAndCode>
+    <Title>Research Methods</Title>
+    <CourseId>19337  </CourseId>
+    <Instructor>Ye</Instructor>
+    <Days>W </Days>
+    <Start>1:25 PM </Start>
+    <End>2:15 PM </End>
+    <Location>Tempe - BYENGM1-09</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>1</Units>
+    <Enrollment>25 of 30 </Enrollment>
+  </Course>
+  <Course id="SER 216">
+    <SubjectAndCode>SER 216</SubjectAndCode>
+    <Title>Sftware Enterpr:PersProc&amp;Qual (LEL)</Title>
+    <CourseId>15070  </CourseId>
+    <Instructor>Bansal</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Poly - PRLTA213</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>9 of 50 </Enrollment>
+  </Course>
+  <Course id="SER 222">
+    <SubjectAndCode>SER 222</SubjectAndCode>
+    <Title>Dsgn &amp; Analy: Data Strs &amp; Algo (LEL)</Title>
+    <CourseId>15068  </CourseId>
+    <Instructor>Acuna</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Poly - PRLTA213</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>8 of 48 </Enrollment>
+  </Course>
+  <Course id="SER 232">
+    <SubjectAndCode>SER 232</SubjectAndCode>
+    <Title>Computer Systems Fundamentals (LEL)</Title>
+    <CourseId>20035  </CourseId>
+    <Instructor>Heinrichs</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Poly - SANTN339</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>17 of 51 </Enrollment>
+  </Course>
+  <Course id="SER 316">
+    <SubjectAndCode>SER 316</SubjectAndCode>
+    <Title>Software Enterprise: Cnstrct</Title>
+    <CourseId>18937  </CourseId>
+    <Instructor>Mehlhase</Instructor>
+    <Days>M W </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>Poly - AGBC134</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>38 of 85 </Enrollment>
+  </Course>
+  <Course id="SER 321">
+    <SubjectAndCode>SER 321</SubjectAndCode>
+    <Title>Software Systems (LEL)</Title>
+    <CourseId>19460  </CourseId>
+    <Instructor>Mehlhase</Instructor>
+    <Days>M W </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Poly - AGBC154</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>24 of 78 </Enrollment>
+  </Course>
+  <Course id="SER 322">
+    <SubjectAndCode>SER 322</SubjectAndCode>
+    <Title>Database Management (LEL)</Title>
+    <CourseId>15069  </CourseId>
+    <Instructor>Heinrichs</Instructor>
+    <Days>T Th </Days>
+    <Start>3:00 PM </Start>
+    <End>4:15 PM </End>
+    <Location>Poly - PRLTA130</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>7 of 51 </Enrollment>
+  </Course>
+  <Course id="SER 334">
+    <SubjectAndCode>SER 334</SubjectAndCode>
+    <Title>Operating Systems&amp;System Prog</Title>
+    <CourseId>15071  </CourseId>
+    <Instructor>Acuna</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Poly - PRLTA130</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>27 of 51 </Enrollment>
+  </Course>
+  <Course id="SER 335">
+    <SubjectAndCode>SER 335</SubjectAndCode>
+    <Title>Engin Secure Software Systems</Title>
+    <CourseId>29647  </CourseId>
+    <Instructor>Gary</Instructor>
+    <Days>T Th </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Poly - PRLTA201</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>38 of 48 </Enrollment>
+  </Course>
+  <Course id="SER 402">
+    <SubjectAndCode>SER 402</SubjectAndCode>
+    <Title>Computing Capstone II</Title>
+    <CourseId>15075  </CourseId>
+    <Instructor>Sandy</Instructor>
+    <Days>M W </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Poly - AGBC150</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>15 of 78 </Enrollment>
+  </Course>
+  <Course id="SER 416">
+    <SubjectAndCode>SER 416</SubjectAndCode>
+    <Title>Software Enterprise: Proj&amp;Proc</Title>
+    <CourseId>18940  </CourseId>
+    <Instructor>Suthar</Instructor>
+    <Days>M W </Days>
+    <Start>12:00 PM </Start>
+    <End>1:15 PM </End>
+    <Location>Poly - AGBC134</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>10 of 72 </Enrollment>
+  </Course>
+  <Course id="SER 423">
+    <SubjectAndCode>SER 423</SubjectAndCode>
+    <Title>Mobile Systems</Title>
+    <CourseId>15076  </CourseId>
+    <Instructor>Mudiam</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Internet - Hybrid</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>21 of 65 </Enrollment>
+  </Course>
+  <Course id="SER 463">
+    <SubjectAndCode>SER 463</SubjectAndCode>
+    <Title>Intro Human Computer Interactn</Title>
+    <CourseId>35745  </CourseId>
+    <Instructor>Atkinson, Xu</Instructor>
+    <Days>M W </Days>
+    <Start>6:00 PM </Start>
+    <End>7:15 PM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>14 of 20 </Enrollment>
+  </Course>
+  <Course id="SER 484">
+    <SubjectAndCode>SER 484</SubjectAndCode>
+    <Title>Internship (PRA)</Title>
+    <CourseId>36230  </CourseId>
+    <Instructor>Bansal</Instructor>
+    <Days>
+    </Days>
+    <Start>
+    </Start>
+    <End>
+    </End>
+    <Location>Poly - TBA</Location>
+    <Dates>03/08 - 04/23(B) </Dates>
+    <Units>3</Units>
+    <Enrollment>4 of 5 </Enrollment>
+  </Course>
+  <Course id="SER 486">
+    <SubjectAndCode>SER 486</SubjectAndCode>
+    <Title>Embedded C Programming</Title>
+    <CourseId>18942  </CourseId>
+    <Instructor>Sandy</Instructor>
+    <Days>T Th </Days>
+    <Start>1:30 PM </Start>
+    <End>2:45 PM </End>
+    <Location>Poly - SANTN122</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>19 of 39 </Enrollment>
+  </Course>
+  <Course id="SER 502">
+    <SubjectAndCode>SER 502</SubjectAndCode>
+    <Title>Languages and Prog Paradigms (LEL)</Title>
+    <CourseId>14486  </CourseId>
+    <Instructor>Bansal</Instructor>
+    <Days>T Th </Days>
+    <Start>10:30 AM </Start>
+    <End>11:45 AM </End>
+    <Location>ASU Sync Only</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>67 of 150 </Enrollment>
+  </Course>
+  <Course id="SER 516">
+    <SubjectAndCode>SER 516</SubjectAndCode>
+    <Title>Software Agility (LEL)</Title>
+    <CourseId>14154  </CourseId>
+    <Instructor>Gonzalez Sanchez</Instructor>
+    <Days>T Th </Days>
+    <Start>4:30 PM </Start>
+    <End>5:45 PM </End>
+    <Location>Poly - PICHO150</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>17 of 100 </Enrollment>
+  </Course>
+  <Course id="SER 517">
+    <SubjectAndCode>SER 517</SubjectAndCode>
+    <Title>Software Factory I (LEL)</Title>
+    <CourseId>22135  </CourseId>
+    <Instructor>Findler</Instructor>
+    <Days>F </Days>
+    <Start>10:30 AM </Start>
+    <End>1:15 PM </End>
+    <Location>Poly - AGBC134</Location>
+    <Dates>01/11 - 04/23(C) </Dates>
+    <Units>3</Units>
+    <Enrollment>24 of 101 </Enrollment>
+  </Course>
+</Courses>

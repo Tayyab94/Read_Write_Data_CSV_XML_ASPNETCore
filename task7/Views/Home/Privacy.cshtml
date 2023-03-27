@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+@*
+<div class="text-center">
+    <h1 class="display-4">Courses</h1>
+    <table class="table table-responsive-lg">
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Code</th>
+                <th>Titles</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var subjectGroup in ViewBag.GrupBy)
+            {
+                <tr>
+                    <td>@subjectGroup.Subject</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                @foreach (var codeGroup in subjectGroup.Courses)
+                {
+                    <tr>
+                        <td></td>
+                        <td>@codeGroup.Code</td>
+                        <td>
+                            @foreach (var title in codeGroup.Titles)
+                            {
+                                <div>@title</div>
+                            }
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+*@
+
+
+@foreach (var group in ViewBag.GrupBy)
+{
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+            <h5 class="card-title"> @group.Key.Subject</h5>
+ 
+        </div>
+        @foreach (var course in group)
+        {
+            <div class="card-body">
+
+                <p class="card-text">Code: @course.Code -  Title : @course.Title </p>
+                <a href="#" class="card-link">@course.Instructor</a>
+                
+            </div>
+        }
+        
+    </div>
+   
+}

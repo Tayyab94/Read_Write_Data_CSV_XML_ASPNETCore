@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "GetAllInstructors";
+}
+
+
+@model IEnumerable<task7.Models.Instructor>
+
+
+<div class="text-center">
+    <h1 class="display-4">Courses</h1>
+    <table class="table table-responsive-lg">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Office No</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <a href="@Url.Action("TaskTwoPoint2","XmlClass",new {instructorName= item.Name})"> @item.Name</a>
+                       
+                    </td>
+                    <td>
+                        @item.OfficeNumber
+                    </td>
+                    <td>
+                        @item.Email
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

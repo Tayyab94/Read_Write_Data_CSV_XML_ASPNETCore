@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "TaskTwoPoint2";
+}
+@model IEnumerable<task7.Models.ViewModels.CoursesWithTeachersViewModel>
+
+
+
+<div class="container">
+    <div class="row">
+        <table class="table table-responsive">
+            <thead>
+                <tr>
+                    <th>Subhect</th>
+                    <th>Instructor Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Subject</td>
+                        <td>@item.InstructorEmail</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

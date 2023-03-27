@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<task7.Models.ViewModels.XElement>
+
+
+<div class="text-center">
+    <h1 class="display-4">Courses</h1>
+    <table class="table table-responsive-lg">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <td>Instructor</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Title
+                    </td>
+                    <td>
+                        @item.Instructor
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

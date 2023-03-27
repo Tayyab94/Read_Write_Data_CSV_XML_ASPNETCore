@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "One2B";
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>Subject</th>
+            <th>Code</th>
+            <th>Title</th>
+            <th>Instructor</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var group in ViewBag.GrupBy)
+        {
+            <tr>
+                <td>@group.Key.Subject</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            foreach (var course in group)
+            {
+                <tr>
+                    <td></td>
+                    <td>@course.Code</td>
+                    <td>@course.Title</td>
+                    <td>@course.Instructor</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
